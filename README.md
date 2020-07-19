@@ -2,7 +2,7 @@
 This portfolio consists of several data science and anaytics projects illustrating the work I have done in order to further develop my data science skills.
 # Table of Contents
 ### 1. Python 
-  * [Financial Crime Fraud Analytics](Financial Crime Fraud Analytics)
+  * [Financial Crime Fraud Analytics](#financial_)
   * Fitbit Data Analytics during COVID-19 Lockdown in New Zealand
   * NLP: Tweeting patterns during COVID-19 Lockdown in New Zealand
   * Sea Turtle Rescue Forecast Challenge.
@@ -16,7 +16,7 @@ This portfolio consists of several data science and anaytics projects illustrati
 
 # Projects
 ## Python
-### 1. [Financial Crime Fraud Analytics](https://github.com/wandabwa2004/Fraud_Analytics)
+### 1. [Financial Crime Fraud Analytics](https://github.com/wandabwa2004/Fraud_Analytics){:name='financial_'}
 [Repository](https://github.com/wandabwa2004/Fraud_Analytics) | [Notebook](https://github.com/wandabwa2004/Fraud_Analytics/blob/master/Fraud%20Detection%20.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/Fraud_Analytics/blob/master/Fraud%20Detection%20.ipynb)
 * Descriptive and Predictive Analytics for a Synthetic dataset on Financial crimes. 
 * The dataset https://www.kaggle.com/ntnu-testimon/paysim1/download is a synthetic one i.e. simulated using PaySim based on a sample of real transactions extracted from one month of financial logs from a mobile money service implemented in an African country. The dataset is scaled down 1/4 of the original dataset.
