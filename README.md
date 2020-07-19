@@ -155,7 +155,7 @@ Used Scattertext package in Python to interactively visualize reviews related to
 
 ![Political Sentiment Analyzer](https://github.com/wandabwa2004/sent_analyzer_kenya/blob/master/sentianalyzer.PNG "Kenyan Political Sentiment Analyzer")
 
-<h2>  <a id="ds_eng"> Data  Science and Engineering  Certifications</a> </h2>
+<h2>  <a id="ds_eng" href="#"> Data  Science and Engineering  Certifications</a> </h2>
 ### Data  Science Foundations 
  * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/account/accomplishments/records/PFQR5F5UCMY4) 
  * [The Data Scientist’s Toolbox](https://www.coursera.org/account/accomplishments/records/YYD6FL74G32U)
