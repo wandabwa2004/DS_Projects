@@ -3,6 +3,12 @@ This portfolio consists of several data science and anaytics projects illustrati
 # Table of Contents
 ### 1. Python 
   * Financial Crime Fraud Analytics
+  * Fitbit Data Analytics during COVID-19 Lockdown in New Zealand
+  * NLP: Tweeting patterns during COVID-19 Lockdown in New Zealand
+  * Sea Turtle Rescue Forecast Challenge.
+  * Bidirectional Encoder Representations from Transformers (BERT) in computation of a few African Cities Happiness
+  * Te Papa Tongarewa (Museum of New Zealand) Sentimental Footing
+  * We are just a Loquacious lot. 2019 Kenyan Social Beat
 ### 2. R 
 ### 3. SAS
 ### 4. Visualizations (PowerBI, Tablueau, ScatterText)
@@ -38,7 +44,7 @@ This portfolio consists of several data science and anaytics projects illustrati
 
 ![Tweeting  Patterns during  COVID-19 Lockdown](https://github.com/wandabwa2004/COVID-19-Lockdown/blob/master/tweeting%20_covid.png "COVID-19 Tweeting Patterns  in NZ")
 
-### 4. Sea Turtle Rescue Forecast Challenge. 
+### 4. Sea Turtle Rescue Forecast Challenge
 [Repository](https://github.com/wandabwa2004/sea-turtle-forecast-challenge) | [Notebook](https://github.com/wandabwa2004/sea-turtle-forecast-challenge/blob/master/Sea%20Turtle%20Rescue%20Forecast%20Challenge.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/sea-turtle-forecast-challenge/blob/master/Sea%20Turtle%20Rescue%20Forecast%20Challenge.ipynb)
 
 The objective of the competition is to create a machine learning model to help Kenyan non-profit organization Local Ocean Conservation anticipate the number of turtles they will rescue from each of their rescue sites as part of their By-Catch Release Programme https://zindi.africa/competitions/sea-turtle-rescue-forecast-challenge.
@@ -48,7 +54,7 @@ The objective of the competition is to create a machine learning model to help K
 ![Turtles Capture and  Release Programme](https://github.com/wandabwa2004/sea-turtle-forecast-challenge/blob/master/turtles.png "Captured Numbers/Year")
 
 
-### 5. Bidirectional Encoder Representations from Transformers (BERT) in computation of a few African Cities Happiness. 
+### 5. Bidirectional Encoder Representations from Transformers (BERT) in computation of a few African Cities Happiness 
 [Repository](https://github.com/wandabwa2004/BERT_Happiness_Index) | [Notebook](https://github.com/wandabwa2004/BERT_Happiness_Index/blob/master/BERT-%20Happiness2.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/BERT_Happiness_Index/blob/master/BERT-%20Happiness2.ipynb) | [Blog Article](https://towardsdatascience.com/kigali-the-2019-happiness-capital-a0085dc1efc4?source=friends_link&sk=4ea0299439406d885c6c4d758f630643)
 * Collection of  tweets from the different cities via geocoding. 
 * Translation via  GoogleTranslate Python library for modelling.
@@ -58,7 +64,7 @@ The objective of the competition is to create a machine learning model to help K
 
 ![BERT Happiness Index](https://github.com/wandabwa2004/BERT_Happiness_Index/blob/master/berthappiness.PNG "BERT Happiness Index for a few African Cities")
 
-### 6. Te Papa Tongarewa (Museum of New Zealand) Sentimental Footing. 
+### 6. Te Papa Tongarewa (Museum of New Zealand) Sentimental Footing 
 [Article](https://towardsdatascience.com/te-papa-tongarewa-museum-of-new-zealand-sentimental-footing-d062e41e430f?source=friends_link&sk=2f0c07b247153effb1639d5193a898d3)
 
 Code Snippets with:-
@@ -69,6 +75,7 @@ Code Snippets with:-
 
 ### 7. We are just a Loquacious lot. 2019 Kenyan Social Beat 
 [Article](https://medium.com/@hermanwandabwa/we-are-just-a-loquacious-lot-2019-kenyan-social-beat-458938d5a066?source=friends_link&sk=a8d224ee3022decff6b78a4b5f9f8846)
+
 The project was an anlytical piece about what Kenyans really discuss online. Data in form of  tweets was from January to December 2019. 
 
 Questions of Interest:-
