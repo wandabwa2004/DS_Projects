@@ -13,7 +13,7 @@ This portfolio consists of several data science and anaytics projects illustrati
 * Identified the  most probable fraud  indicators.
 * XGBoost and  RandomForest Classifiers with Area under the precision-recall curve (AUPRC) as the  metric  for the skewed dataset.
 
-!(https://github.com/wandabwa2004/Fraud_Analytics/blob/master/fraud_analytics.png "Correlation of factors in financial crime")
+![alt text](https://github.com/wandabwa2004/Fraud_Analytics/blob/master/fraud_analytics.png "Correlation of factors in financial crime")
 
 ### Conclusion:
 1. Fraud detection is a difficult process. This is especially compounded by the lack of integral data in the area.
