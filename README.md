@@ -58,6 +58,7 @@ The objective of the competition is to create a machine learning model to help K
 Code Snippets with:-
 * Descriptive Analytics of  Trip Advisor reviews for Museum of New Zealand (Te Papa Tongarewa)
 * Sentiment  Analysis of the reviews.
+
 ![Sentiment Over Time](https://miro.medium.com/max/700/1*neOrnIcTZEMh5KW0f6jupA.png "Te Papas Sentiments over Time")
 
 ### 7. We are just a Loquacious lot. 2019 Kenyan Social Beat 
@@ -68,7 +69,7 @@ Questions of Interest:-
 1. Are we able to deduce the nature of Kenyans based on their daily chatter? Do they talk about substantive issues?
 2. Are they topically consistent in their talk over time?
 
-![Nairobi City from the Space Station](https://miro.medium.com/max/700/1*L5nAfujAwemq-4f1eThOFg.jpe,"Nairobi Cityat night as  viewed from the International Space Station")
+![Nairobi City from the Space Station](https://miro.medium.com/max/700/1*L5nAfujAwemq-4f1eThOFg.jpeg,"Nairobi City at night as  viewed from the International Space Station")
 
 
 
