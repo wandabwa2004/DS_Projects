@@ -2,7 +2,7 @@
 This portfolio consists of several data science and anaytics projects illustrating the work I have done in order to further develop my data science skills.
 # Table of Contents
 1. Python 
-** Financial Crime Fraud Analytics
+  * Financial Crime Fraud Analytics
 2. R 
 3. SAS
 4. Visualizations (PowerBI, Tablueau, ScatterText)
