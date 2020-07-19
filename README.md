@@ -2,8 +2,6 @@
 This portfolio consists of several data science and anaytics projects illustrating the work I have done in order to further develop my data science skills.
 # Table of Contents
 
-
-
 # Projects
 ## Python
 ### 1. Financial Crime Fraud Analytics
@@ -36,6 +34,7 @@ This portfolio consists of several data science and anaytics projects illustrati
 
 ### 4. Sea Turtle Rescue Forecast Challenge. 
 [Repository](https://github.com/wandabwa2004/sea-turtle-forecast-challenge) | [Notebook](https://github.com/wandabwa2004/sea-turtle-forecast-challenge/blob/master/Sea%20Turtle%20Rescue%20Forecast%20Challenge.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/sea-turtle-forecast-challenge/blob/master/Sea%20Turtle%20Rescue%20Forecast%20Challenge.ipynb)
+
 The objective of the competition is to create a machine learning model to help Kenyan non-profit organization Local Ocean Conservation anticipate the number of turtles they will rescue from each of their rescue sites as part of their By-Catch Release Programme https://zindi.africa/competitions/sea-turtle-rescue-forecast-challenge.
 * Descriptive analytics and  EDA for the dataset. Included encoding etc for better modelling. 
 * 1.1897261428182493 RMSE as the measurement metric. 
@@ -53,8 +52,23 @@ The objective of the competition is to create a machine learning model to help K
 
 ![BERT Happiness Index](https://github.com/wandabwa2004/BERT_Happiness_Index/blob/master/berthappiness.PNG "BERT Happiness Index for a few African Cities")
 
-### 6. Bidirectional Encoder Representations from Transformers (BERT) in computation of a few African Cities Happiness. 
-[Repository](https://github.com/wandabwa2004/BERT_Happiness_Index) | [Notebook](https://github.com/wandabwa2004/BERT_Happiness_Index/blob/master/BERT-%20Happiness2.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/BERT_Happiness_Index/blob/master/BERT-%20Happiness2.ipynb) | [Blog Article](https://towardsdatascience.com/kigali-the-2019-happiness-capital-a0085dc1efc4?source=friends_link&sk=4ea0299439406d885c6c4d758f630643)
+### 6. Te Papa Tongarewa (Museum of New Zealand) Sentimental Footing. 
+[Article](https://towardsdatascience.com/te-papa-tongarewa-museum-of-new-zealand-sentimental-footing-d062e41e430f?source=friends_link&sk=2f0c07b247153effb1639d5193a898d3)
+
+Code Snippets with:-
+* Descriptive Analytics of  Trip Advisor reviews for Museum of New Zealand (Te Papa Tongarewa)
+* Sentiment  Analysis of the reviews.
+![Sentiment Over Time](https://miro.medium.com/max/700/1*neOrnIcTZEMh5KW0f6jupA.png "Te Papas Sentiments over Time")
+
+### 7. We are just a Loquacious lot. 2019 Kenyan Social Beat 
+[Article](https://medium.com/@hermanwandabwa/we-are-just-a-loquacious-lot-2019-kenyan-social-beat-458938d5a066?source=friends_link&sk=a8d224ee3022decff6b78a4b5f9f8846)
+The project was an anlytical piece about what Kenyans really discuss online. Data in form of  tweets was from January to December 2019. 
+
+Questions of Interest:-
+1. Are we able to deduce the nature of Kenyans based on their daily chatter? Do they talk about substantive issues?
+2. Are they topically consistent in their talk over time?
+
+![Nairobi City from the Space Station](https://miro.medium.com/max/700/1*L5nAfujAwemq-4f1eThOFg.jpe,"Nairobi Cityat night as  viewed from the International Space Station")
 
 
 
