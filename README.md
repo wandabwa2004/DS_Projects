@@ -121,7 +121,7 @@ Questions of Interest:-
 ![COVID-19 Numbers as at 10/03/2020](https://github.com/wandabwa2004/Visualizations/blob/master/PowerBI/coronaviz.jpg "COVID-19 Numbers as at 10/03/2020")
 
 ### 2. ScatterText: Museum of  New Zealand Reviews TripAdvisor Reviews and Related Topics
-[Repository](https://github.com/wandabwa2004/Visualizations/tree/master/Scattertext 
+[Repository](https://github.com/wandabwa2004/Visualizations/tree/master/Scattertext) 
 
 Used Scattertext package in Python to interactively visualize reviews related to the Museum of  New Zealand.
 
@@ -133,7 +133,7 @@ Used Scattertext package in Python to interactively visualize reviews related to
 
 ## Model Deployment 
 ### 1. Kenyan Political Sentiments Monitor - The Polimeter
-[Code](https://github.com/wandabwa2004/sent_analyzer_kenya) | [Deployed App] (https://sentiment-politics-kenya.herokuapp.com/)
+[Code](https://github.com/wandabwa2004/sent_analyzer_kenya) | [Deployed App](https://sentiment-politics-kenya.herokuapp.com/)
 
 ![Political Sentiment Analyzer] (https://github.com/wandabwa2004/sent_analyzer_kenya/blob/master/sentianalyzer.PNG "Kenyan Political Sentiment Analyzer")
 
