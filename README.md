@@ -16,7 +16,7 @@ This portfolio consists of several data science and anaytics projects illustrati
 
 # Projects
 ## Python
-<h2> id="financialscrime" <a href="https://github.com/wandabwa2004/Fraud_Analytics"> 1.Financial Crime Fraud Analytics </a> </h2>
+<h2>  <a id="financialscrime" href="https://github.com/wandabwa2004/Fraud_Analytics"> 1.Financial Crime Fraud Analytics </a> </h2>
 
 [Repository](https://github.com/wandabwa2004/Fraud_Analytics) | [Notebook](https://github.com/wandabwa2004/Fraud_Analytics/blob/master/Fraud%20Detection%20.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/Fraud_Analytics/blob/master/Fraud%20Detection%20.ipynb)
 * Descriptive and Predictive Analytics for a Synthetic dataset on Financial crimes. 
