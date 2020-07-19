@@ -69,7 +69,7 @@ Questions of Interest:-
 1. Are we able to deduce the nature of Kenyans based on their daily chatter? Do they talk about substantive issues?
 2. Are they topically consistent in their talk over time?
 
-![Nairobi City from the Space Station](https://miro.medium.com/max/700/1*L5nAfujAwemq-4f1eThOFg.jpeg,"Nairobi City at night as  viewed from the International Space Station")
+![Nairobi City from the Space Station](https://miro.medium.com/max/700/1*L5nAfujAwemq-4f1eThOFg.jpeg "Nairobi City at night as  viewed from the International Space Station")
 
 
 
