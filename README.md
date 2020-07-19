@@ -30,13 +30,18 @@ This portfolio consists of several data science and anaytics projects illustrati
 1. Fraud detection is a difficult process. This is especially compounded by the lack of integral data in the area.
 2. Tree based algorithms worked better in detection of fraud. This is partly attributed to the nature of data.
 
-### 2. Fitbit Data Analytics during  COVID-19 Lockdown in New Zealand
+### 2. Political Content Sentiment Analyzer  
+In this  project, I setup a tweets  collection framework for tweets belonging to five politicians in Kenya. I analyzed the tweet sentiments/emotions over time, packaged the same in a Streamlit App and hosted the same on Heroku. 
+
+[Code](https://github.com/wandabwa2004/sent_analyzer_kenya)
+
+### 3. Fitbit Data Analytics during  COVID-19 Lockdown in New Zealand
 [Repository](https://github.com/wandabwa2004/Fitbit-Analytics-Lockdown/) | [Notebook](https://github.com/wandabwa2004/Fitbit-Analytics-Lockdown/blob/master/Fitbit%20Analytics%20-%20Lockdown.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/Fitbit-Analytics-Lockdown/blob/master/Fitbit%20Analytics%20-%20Lockdown.ipynb) | [Blog Article](https://medium.com/swlh/6-kgs-lost-in-31-days-of-covid-19-lockdown-a-data-analytics-perspective-a0061e0689f2?source=friends_link&sk=7c19969f1c54fb013d3cdae45319d78d)
 * Analytics of my body, activity and sleep data during the COVID-19 lockdown. 
 * Identification of important factors that necessitated weight loss during the lockdown time. 
 ![Fitbit Data Analytics](https://github.com/wandabwa2004/Fitbit-Analytics-Lockdown/blob/master/fitbit.png "Fitbit Data Analytics")
 
-### 3. NLP: Tweeting patterns during  COVID-19 Lockdown in New Zealand 
+### 4. NLP: Tweeting patterns during  COVID-19 Lockdown in New Zealand 
 [Repository](https://github.com/wandabwa2004/COVID-19-Lockdown) | [Notebook](https://github.com/wandabwa2004/COVID-19-Lockdown/blob/master/COVID-19%20Lockdown%20Tweeting.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/COVID-19-Lockdown/blob/master/COVID-19%20Lockdown%20Tweeting.ipynb)
 * Collection of streaming tweets from Auckland and Wellington, New Zealand's largest cities during  COVID-19 Lockdown period. 
 * Descriptive analytics on the tweeting patterns by users from the  two cities. Aucklanders seemed to work more than tweet. 
@@ -44,7 +49,7 @@ This portfolio consists of several data science and anaytics projects illustrati
 
 ![Tweeting  Patterns during  COVID-19 Lockdown](https://github.com/wandabwa2004/COVID-19-Lockdown/blob/master/tweeting%20_covid.png "COVID-19 Tweeting Patterns  in NZ")
 
-### 4. Sea Turtle Rescue Forecast Challenge
+### 5. Sea Turtle Rescue Forecast Challenge
 [Repository](https://github.com/wandabwa2004/sea-turtle-forecast-challenge) | [Notebook](https://github.com/wandabwa2004/sea-turtle-forecast-challenge/blob/master/Sea%20Turtle%20Rescue%20Forecast%20Challenge.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/sea-turtle-forecast-challenge/blob/master/Sea%20Turtle%20Rescue%20Forecast%20Challenge.ipynb)
 
 The objective of the competition is to create a machine learning model to help Kenyan non-profit organization Local Ocean Conservation anticipate the number of turtles they will rescue from each of their rescue sites as part of their By-Catch Release Programme https://zindi.africa/competitions/sea-turtle-rescue-forecast-challenge.
@@ -54,7 +59,7 @@ The objective of the competition is to create a machine learning model to help K
 ![Turtles Capture and  Release Programme](https://github.com/wandabwa2004/sea-turtle-forecast-challenge/blob/master/turtles.png "Captured Numbers/Year")
 
 
-### 5. Bidirectional Encoder Representations from Transformers (BERT) in computation of a few African Cities Happiness 
+### 6. Bidirectional Encoder Representations from Transformers (BERT) in computation of a few African Cities Happiness 
 [Repository](https://github.com/wandabwa2004/BERT_Happiness_Index) | [Notebook](https://github.com/wandabwa2004/BERT_Happiness_Index/blob/master/BERT-%20Happiness2.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/BERT_Happiness_Index/blob/master/BERT-%20Happiness2.ipynb) | [Blog Article](https://towardsdatascience.com/kigali-the-2019-happiness-capital-a0085dc1efc4?source=friends_link&sk=4ea0299439406d885c6c4d758f630643)
 * Collection of  tweets from the different cities via geocoding. 
 * Translation via  GoogleTranslate Python library for modelling.
@@ -64,7 +69,7 @@ The objective of the competition is to create a machine learning model to help K
 
 ![BERT Happiness Index](https://github.com/wandabwa2004/BERT_Happiness_Index/blob/master/berthappiness.PNG "BERT Happiness Index for a few African Cities")
 
-### 6. Te Papa Tongarewa (Museum of New Zealand) Sentimental Footing 
+### 7. Te Papa Tongarewa (Museum of New Zealand) Sentimental Footing 
 [Article](https://towardsdatascience.com/te-papa-tongarewa-museum-of-new-zealand-sentimental-footing-d062e41e430f?source=friends_link&sk=2f0c07b247153effb1639d5193a898d3)
 
 Code Snippets with:-
@@ -73,7 +78,7 @@ Code Snippets with:-
 
 ![Sentiment Over Time](https://miro.medium.com/max/700/1*neOrnIcTZEMh5KW0f6jupA.png "Te Papas Sentiments over Time")
 
-### 7. We are just a Loquacious lot. 2019 Kenyan Social Beat 
+### 8. We are just a Loquacious lot. 2019 Kenyan Social Beat 
 [Article](https://medium.com/@hermanwandabwa/we-are-just-a-loquacious-lot-2019-kenyan-social-beat-458938d5a066?source=friends_link&sk=a8d224ee3022decff6b78a4b5f9f8846)
 
 The project was an anlytical piece about what Kenyans really discuss online. Data in form of  tweets was from January to December 2019. 
@@ -120,11 +125,29 @@ Questions of Interest:-
 
 Used Scattertext package in Python to interactively visualize reviews related to the Museum of  New Zealand.
 
-Visualization of Terms: https://lnkd.in/gyvXhdH  | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/Visualizations/blob/master/Scattertext/Tepapa_Reviews-Visualization.html)
-Visualization of Topics: https://lnkd.in/gzvNBwF | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/Visualizations/blob/master/Scattertext/Tepapa-Visualization-Empath_Topics.html)
+[Visualization of Terms Code](https://lnkd.in/gyvXhdH)  | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/Visualizations/blob/master/Scattertext/Tepapa_Reviews-Visualization.html)
+
+[Visualization of Topics Code] (https://lnkd.in/gzvNBwF) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/Visualizations/blob/master/Scattertext/Tepapa-Visualization-Empath_Topics.html)
 
 ![Terms visualizations  in ScatterText](https://github.com/wandabwa2004/Visualizations/blob/master/Scattertext/tepapa_reviews.PNG "Terms visualizations  in ScatterText")
 
 ## Model Deployment 
+### 1. Kenyan Political Sentiments Monitor - The Polimeter
+[Code](https://github.com/wandabwa2004/sent_analyzer_kenya) | [Deployed App] (https://sentiment-politics-kenya.herokuapp.com/)
+
+![Political Sentiment Analyzer] (https://github.com/wandabwa2004/sent_analyzer_kenya/blob/master/sentianalyzer.PNG "Kenyan Political Sentiment Analyzer")
+
 ## Data  Science and Engineering  Certifications
+### Data  Science Foundations 
+ * [Machine Learning Foundations: A Case Study Approach] (https://www.coursera.org/account/accomplishments/records/PFQR5F5UCMY4) 
+ * [The Data Scientist’s Toolbox] (https://www.coursera.org/account/accomplishments/records/YYD6FL74G32U)
+### [Professional Certificate in Data Engineering with Google Cloud](https://www.coursera.org/account/accomplishments/professional-cert/BZ2M655H46HQ)
+ * [Google Cloud Platform Big Data and Machine Learning Fundamentals] (https://www.coursera.org/account/accomplishments/records/K28J2JA6M6YC)
+ * [Modernizing Data Lakes and Data Warehouses with GCP](https://www.coursera.org/account/accomplishments/records/4NSV7J7NXA2D)
+ * [Building Resilient Streaming Analytics Systems on GCP](https://www.coursera.org/account/accomplishments/records/8F8MW43XMFNR)
+ * [Smart Analytics, Machine Learning, and AI on GCP](https://www.coursera.org/account/accomplishments/records/A7HEZXEF8QZ4)
+ * [Building Batch Data Pipelines on GCP](https://www.coursera.org/account/accomplishments/records/GQA9NJRVWLJT)
+ * [Preparing for the Google Cloud Professional Data Engineer Exam](https://www.coursera.org/account/accomplishments/records/6X7HCFRALZW5)
+ 
+## [Google Scholar Profile](https://scholar.google.com/citations?user=0iEgEHYAAAAJ&hl=en)
 
