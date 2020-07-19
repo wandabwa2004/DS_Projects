@@ -139,8 +139,8 @@ Used Scattertext package in Python to interactively visualize reviews related to
 
 ## Data  Science and Engineering  Certifications
 ### Data  Science Foundations 
- * [Machine Learning Foundations: A Case Study Approach] (https://www.coursera.org/account/accomplishments/records/PFQR5F5UCMY4) 
- * [The Data Scientist’s Toolbox] (https://www.coursera.org/account/accomplishments/records/YYD6FL74G32U)
+ * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/account/accomplishments/records/PFQR5F5UCMY4) 
+ * [The Data Scientist’s Toolbox](https://www.coursera.org/account/accomplishments/records/YYD6FL74G32U)
 ### [Professional Certificate in Data Engineering with Google Cloud](https://www.coursera.org/account/accomplishments/professional-cert/BZ2M655H46HQ)
  * [Google Cloud Platform Big Data and Machine Learning Fundamentals] (https://www.coursera.org/account/accomplishments/records/K28J2JA6M6YC)
  * [Modernizing Data Lakes and Data Warehouses with GCP](https://www.coursera.org/account/accomplishments/records/4NSV7J7NXA2D)
