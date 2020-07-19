@@ -164,6 +164,10 @@ Used Scattertext package in Python to interactively visualize reviews related to
  * [Smart Analytics, Machine Learning, and AI on GCP](https://www.coursera.org/account/accomplishments/records/A7HEZXEF8QZ4)
  * [Building Batch Data Pipelines on GCP](https://www.coursera.org/account/accomplishments/records/GQA9NJRVWLJT)
  * [Preparing for the Google Cloud Professional Data Engineer Exam](https://www.coursera.org/account/accomplishments/records/6X7HCFRALZW5)
+
+### Data  Science Foundations 
+ * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/account/accomplishments/records/PFQR5F5UCMY4) 
+ * [The Data Scientist’s Toolbox](https://www.coursera.org/account/accomplishments/records/YYD6FL74G32U)
  
 <h2>  <a id="publications" href ="https://scholar.google.com/citations?user=0iEgEHYAAAAJ&hl=en"> Google Scholar Profile</a> </h2>
 
