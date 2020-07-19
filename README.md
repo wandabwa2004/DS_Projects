@@ -2,7 +2,7 @@
 This portfolio consists of several data science and anaytics projects illustrating the work I have done in order to further develop my data science skills.
 # Table of Contents
 ### 1. Python 
-  * [Financial Crime Fraud Analytics](#financialscrime)
+  * [Financial Crime Fraud Analytics](https://github.com/wandabwa2004/Fraud_Analytics#financialscrime)
   * Fitbit Data Analytics during COVID-19 Lockdown in New Zealand
   * NLP: Tweeting patterns during COVID-19 Lockdown in New Zealand
   * Sea Turtle Rescue Forecast Challenge.
