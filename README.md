@@ -84,8 +84,47 @@ Questions of Interest:-
 
 ![Nairobi City from the Space Station](https://miro.medium.com/max/700/1*L5nAfujAwemq-4f1eThOFg.jpeg "Nairobi City at night as  viewed from the International Space Station")
 
+## R
+### 1. Emotion Detection in New Zealander's Tweets  Over the COVID-19 Lockdown Period
+[Repository](https://github.com/wandabwa2004/EmotionDetetection) | [Code](https://github.com/wandabwa2004/EmotionDetetection/blob/master/EmotionsDetection.R) 
 
+* Descriptive Analytics of tweets geolocated to New Zealand. 
+* Emotions Analysis in the collected tweets
 
+![Emotions Distribution](https://github.com/wandabwa2004/EmotionDetetection/blob/master/emotions.jpg "New Zealander's Emotions During  COVID-19 Lockdown period")
 
+### 2. Speech Analytics: State of the Nation Addresses by Kenya's President, Uhuru Kenyatta
+[Repository](https://github.com/wandabwa2004/StateoftheUnionAddresses_UK) | [Code](https://github.com/wandabwa2004/StateoftheUnionAddresses_UK/blob/master/Uhuru.R)  [Blog Article](https://towardsdatascience.com/uhuru-kenyattas-2019-state-of-the-nation-address-most-positive-557d9cfb3f13?source=friends_link&sk=051b33656754906e8cd95c6182c693da)
 
+* Descriptive Analytics of Uhuru Kenyatta's State of  the  Nation speeches from 2014 - 2019. 
+* The language in Uhuru Kenyatta's State of the Nation addresses from 2014-2019 never changed.
+* His 2015's speech was the most difficult in terms of readability i.e. needed someone at postgraduate/ advanced undergraduate level to read and probably understand.
+* His 2019 speech was the most positive of all his speeches
+
+![Polarity in the speeches over time](https://github.com/wandabwa2004/StateoftheUnionAddresses_UK/blob/master/speeches.png "Polarity in Uhuru Kenyatta's Speeches between 2014 - 2019")
+
+## SAS
+### 1. Black Friday Sales Analytics 
+[Repository](https://github.com/wandabwa2004/StateoftheUnionAddresses_UK) | [Code](https://github.com/wandabwa2004/SAS_Sales_Analysis/blob/master/BlackFriday.sas) | [Dataset](https://github.com/wandabwa2004/SAS_Sales_Analysis/blob/master/BlackFriday.csv) | [Analytics Output](https://github.com/wandabwa2004/SAS_Sales_Analysis/blob/master/Sales%20Analysis%20Results%20SAS.pdf)
+
+## Visualizations (PowerBI, Tablueau, ScatterText)
+### 1. PowerBI: Coronavirus numbers as at 10/03/2020
+[Code](https://github.com/wandabwa2004/Visualizations/blob/master/PowerBI/Worldwide_Coronacases.pbix)
+
+* COVID-19 Numbers by 10/03/2020 in PowerBI.
+
+![COVID-19 Numbers as at 10/03/2020](https://github.com/wandabwa2004/Visualizations/blob/master/PowerBI/coronaviz.jpg "COVID-19 Numbers as at 10/03/2020")
+
+### 2. ScatterText: Museum of  New Zealand Reviews TripAdvisor Reviews and Related Topics
+[Repository](https://github.com/wandabwa2004/Visualizations/tree/master/Scattertext 
+
+Used Scattertext package in Python to interactively visualize reviews related to the Museum of  New Zealand.
+
+Visualization of Terms: https://lnkd.in/gyvXhdH  | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/Visualizations/blob/master/Scattertext/Tepapa_Reviews-Visualization.html)
+Visualization of Topics: https://lnkd.in/gzvNBwF | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/Visualizations/blob/master/Scattertext/Tepapa-Visualization-Empath_Topics.html)
+
+![Terms visualizations  in ScatterText](https://github.com/wandabwa2004/Visualizations/blob/master/Scattertext/tepapa_reviews.PNG "Terms visualizations  in ScatterText")
+
+## Model Deployment 
+## Data  Science and Engineering  Certifications
 
