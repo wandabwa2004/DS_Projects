@@ -47,12 +47,14 @@ In this  project, I setup a tweets  collection framework for tweets belonging to
 [Code](https://github.com/wandabwa2004/sent_analyzer_kenya) | [Deployed App](https://sentiment-politics-kenya.herokuapp.com/)
 
 <h2>  <a id="fitbit" href="https://github.com/wandabwa2004/Fitbit-Analytics-Lockdown/"> 3. Fitbit Data Analytics during  COVID-19 Lockdown in New Zealand </a> </h2>
+
 [Repository](https://github.com/wandabwa2004/Fitbit-Analytics-Lockdown/) | [Notebook](https://github.com/wandabwa2004/Fitbit-Analytics-Lockdown/blob/master/Fitbit%20Analytics%20-%20Lockdown.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/Fitbit-Analytics-Lockdown/blob/master/Fitbit%20Analytics%20-%20Lockdown.ipynb) | [Blog Article](https://medium.com/swlh/6-kgs-lost-in-31-days-of-covid-19-lockdown-a-data-analytics-perspective-a0061e0689f2?source=friends_link&sk=7c19969f1c54fb013d3cdae45319d78d)
 * Analytics of my body, activity and sleep data during the COVID-19 lockdown. 
 * Identification of important factors that necessitated weight loss during the lockdown time. 
 ![Fitbit Data Analytics](https://github.com/wandabwa2004/Fitbit-Analytics-Lockdown/blob/master/fitbit.png "Fitbit Data Analytics")
 
 <h2>  <a id="covid_tweeting" href="https://github.com/wandabwa2004/COVID-19-Lockdown"> 4. NLP: Tweeting patterns during  COVID-19 Lockdown in New Zealand </a> </h2>
+
 [Repository](https://github.com/wandabwa2004/COVID-19-Lockdown) | [Notebook](https://github.com/wandabwa2004/COVID-19-Lockdown/blob/master/COVID-19%20Lockdown%20Tweeting.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/COVID-19-Lockdown/blob/master/COVID-19%20Lockdown%20Tweeting.ipynb)
 * Collection of streaming tweets from Auckland and Wellington, New Zealand's largest cities during  COVID-19 Lockdown period. 
 * Descriptive analytics on the tweeting patterns by users from the  two cities. Aucklanders seemed to work more than tweet. 
@@ -70,6 +72,7 @@ The objective of the competition is to create a machine learning model to help K
 ![Turtles Capture and  Release Programme](https://github.com/wandabwa2004/sea-turtle-forecast-challenge/blob/master/turtles.png "Captured Numbers/Year")
 
 <h2>  <a id="bert_happiness" href="https://github.com/wandabwa2004/BERT_Happiness_Index"> 6. Bidirectional Encoder Representations from Transformers (BERT) in computation of a few African Cities Happiness </a> </h2>
+
 [Repository](https://github.com/wandabwa2004/BERT_Happiness_Index) | [Notebook](https://github.com/wandabwa2004/BERT_Happiness_Index/blob/master/BERT-%20Happiness2.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/BERT_Happiness_Index/blob/master/BERT-%20Happiness2.ipynb) | [Blog Article](https://towardsdatascience.com/kigali-the-2019-happiness-capital-a0085dc1efc4?source=friends_link&sk=4ea0299439406d885c6c4d758f630643)
 * Collection of  tweets from the different cities via geocoding. 
 * Translation via  GoogleTranslate Python library for modelling.
@@ -80,6 +83,7 @@ The objective of the competition is to create a machine learning model to help K
 ![BERT Happiness Index](https://github.com/wandabwa2004/BERT_Happiness_Index/blob/master/berthappiness.PNG "BERT Happiness Index for a few African Cities")
 
 <h2>  <a id="tepapa_sentiments" href="https://towardsdatascience.com/te-papa-tongarewa-museum-of-new-zealand-sentimental-footing-d062e41e430f?source=friends_link&sk=2f0c07b247153effb1639d5193a898d3"> 7. Te Papa Tongarewa (Museum of New Zealand) Sentimental Footing</a> </h2>
+
 [Article](https://towardsdatascience.com/te-papa-tongarewa-museum-of-new-zealand-sentimental-footing-d062e41e430f?source=friends_link&sk=2f0c07b247153effb1639d5193a898d3)
 
 Code Snippets with:-
