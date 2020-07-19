@@ -3,16 +3,25 @@ This portfolio consists of several data science and anaytics projects illustrati
 # Table of Contents
 ### 1. Python 
   * [Financial Crime Fraud Analytics](#financialscrime)
-  * [Fitbit Data Analytics during COVID-19 Lockdown in New Zealand](#politicalsentiment)
-  * NLP: Tweeting patterns during COVID-19 Lockdown in New Zealand
-  * Sea Turtle Rescue Forecast Challenge.
-  * Bidirectional Encoder Representations from Transformers (BERT) in computation of a few African Cities Happiness
-  * Te Papa Tongarewa (Museum of New Zealand) Sentimental Footing
-  * We are just a Loquacious lot. 2019 Kenyan Social Beat
+  * [Political Content Sentiment Analyzer](#politicalsentiment)
+  * [Fitbit Data Analytics during COVID-19 Lockdown in New Zealand](#fitbit)
+  * [NLP: Tweeting patterns during COVID-19 Lockdown in New Zealand](#covid_tweeting)
+  * [Sea Turtle Rescue Forecast Challenge](#sea_turles)
+  * [Bidirectional Encoder Representations from Transformers (BERT) in computation of a few African Cities Happiness](#bert_happiness)
+  * [Te Papa Tongarewa (Museum of New Zealand) Sentimental Footing](#tepapa_sentiments)
+  * [We are just a Loquacious lot. 2019 Kenyan Social Beat](#loquacious)
 ### 2. R 
+  * [Emotion Detection in New Zealander's Tweets  Over the COVID-19 Lockdown Period](#emotions)
+  * [Speech Analytics: State of the Nation Addresses by Kenya's President, Uhuru Kenyatta](#speech_analytics)
 ### 3. SAS
+  * [Black Friday Sales Analytics](#black_friday)
 ### 4. Visualizations (PowerBI, Tablueau, ScatterText)
+  * [PowerBI: Coronavirus numbers as at 10/03/2020](#covid_powerBI)
+  * [ScatterText: Museum of  New Zealand Reviews TripAdvisor Reviews and Related Topics](#scatter_tepapa)
 ### 5. Model Deployment 
+  * [Kenyan Political Sentiments Monitor - The Polimeter](#deployment_political)
+### 6. [Data  Science and Engineering  Certifications](#ds_eng)
+### 7. [Publications](#publications) 
 
 # Projects
 ## Python
@@ -37,13 +46,13 @@ In this  project, I setup a tweets  collection framework for tweets belonging to
 
 [Code](https://github.com/wandabwa2004/sent_analyzer_kenya) | [Deployed App](https://sentiment-politics-kenya.herokuapp.com/)
 
-### 3. Fitbit Data Analytics during  COVID-19 Lockdown in New Zealand
+<h2>  <a id="fitbit" href="https://github.com/wandabwa2004/Fitbit-Analytics-Lockdown/"> 3. Fitbit Data Analytics during  COVID-19 Lockdown in New Zealand </a> </h2>
 [Repository](https://github.com/wandabwa2004/Fitbit-Analytics-Lockdown/) | [Notebook](https://github.com/wandabwa2004/Fitbit-Analytics-Lockdown/blob/master/Fitbit%20Analytics%20-%20Lockdown.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/Fitbit-Analytics-Lockdown/blob/master/Fitbit%20Analytics%20-%20Lockdown.ipynb) | [Blog Article](https://medium.com/swlh/6-kgs-lost-in-31-days-of-covid-19-lockdown-a-data-analytics-perspective-a0061e0689f2?source=friends_link&sk=7c19969f1c54fb013d3cdae45319d78d)
 * Analytics of my body, activity and sleep data during the COVID-19 lockdown. 
 * Identification of important factors that necessitated weight loss during the lockdown time. 
 ![Fitbit Data Analytics](https://github.com/wandabwa2004/Fitbit-Analytics-Lockdown/blob/master/fitbit.png "Fitbit Data Analytics")
 
-### 4. NLP: Tweeting patterns during  COVID-19 Lockdown in New Zealand 
+<h2>  <a id="covid_tweeting" href="https://github.com/wandabwa2004/COVID-19-Lockdown"> 4. NLP: Tweeting patterns during  COVID-19 Lockdown in New Zealand </a> </h2>
 [Repository](https://github.com/wandabwa2004/COVID-19-Lockdown) | [Notebook](https://github.com/wandabwa2004/COVID-19-Lockdown/blob/master/COVID-19%20Lockdown%20Tweeting.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/COVID-19-Lockdown/blob/master/COVID-19%20Lockdown%20Tweeting.ipynb)
 * Collection of streaming tweets from Auckland and Wellington, New Zealand's largest cities during  COVID-19 Lockdown period. 
 * Descriptive analytics on the tweeting patterns by users from the  two cities. Aucklanders seemed to work more than tweet. 
@@ -51,7 +60,7 @@ In this  project, I setup a tweets  collection framework for tweets belonging to
 
 ![Tweeting  Patterns during  COVID-19 Lockdown](https://github.com/wandabwa2004/COVID-19-Lockdown/blob/master/tweeting%20_covid.png "COVID-19 Tweeting Patterns  in NZ")
 
-### 5. Sea Turtle Rescue Forecast Challenge
+<h2>  <a id="sea_turles" href="https://github.com/wandabwa2004/sea-turtle-forecast-challenge"> 5. Sea Turtle Rescue Forecast Challenge </a> </h2>
 [Repository](https://github.com/wandabwa2004/sea-turtle-forecast-challenge) | [Notebook](https://github.com/wandabwa2004/sea-turtle-forecast-challenge/blob/master/Sea%20Turtle%20Rescue%20Forecast%20Challenge.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/sea-turtle-forecast-challenge/blob/master/Sea%20Turtle%20Rescue%20Forecast%20Challenge.ipynb)
 
 The objective of the competition is to create a machine learning model to help Kenyan non-profit organization Local Ocean Conservation anticipate the number of turtles they will rescue from each of their rescue sites as part of their By-Catch Release Programme https://zindi.africa/competitions/sea-turtle-rescue-forecast-challenge.
@@ -60,8 +69,7 @@ The objective of the competition is to create a machine learning model to help K
 
 ![Turtles Capture and  Release Programme](https://github.com/wandabwa2004/sea-turtle-forecast-challenge/blob/master/turtles.png "Captured Numbers/Year")
 
-
-### 6. Bidirectional Encoder Representations from Transformers (BERT) in computation of a few African Cities Happiness 
+<h2>  <a id="bert_happiness" href="https://github.com/wandabwa2004/BERT_Happiness_Index"> 6. Bidirectional Encoder Representations from Transformers (BERT) in computation of a few African Cities Happiness </a> </h2>
 [Repository](https://github.com/wandabwa2004/BERT_Happiness_Index) | [Notebook](https://github.com/wandabwa2004/BERT_Happiness_Index/blob/master/BERT-%20Happiness2.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/BERT_Happiness_Index/blob/master/BERT-%20Happiness2.ipynb) | [Blog Article](https://towardsdatascience.com/kigali-the-2019-happiness-capital-a0085dc1efc4?source=friends_link&sk=4ea0299439406d885c6c4d758f630643)
 * Collection of  tweets from the different cities via geocoding. 
 * Translation via  GoogleTranslate Python library for modelling.
@@ -71,7 +79,7 @@ The objective of the competition is to create a machine learning model to help K
 
 ![BERT Happiness Index](https://github.com/wandabwa2004/BERT_Happiness_Index/blob/master/berthappiness.PNG "BERT Happiness Index for a few African Cities")
 
-### 7. Te Papa Tongarewa (Museum of New Zealand) Sentimental Footing 
+<h2>  <a id="tepapa_sentiments" href="https://towardsdatascience.com/te-papa-tongarewa-museum-of-new-zealand-sentimental-footing-d062e41e430f?source=friends_link&sk=2f0c07b247153effb1639d5193a898d3"> 7. Te Papa Tongarewa (Museum of New Zealand) Sentimental Footing</a> </h2>
 [Article](https://towardsdatascience.com/te-papa-tongarewa-museum-of-new-zealand-sentimental-footing-d062e41e430f?source=friends_link&sk=2f0c07b247153effb1639d5193a898d3)
 
 Code Snippets with:-
@@ -80,7 +88,8 @@ Code Snippets with:-
 
 ![Sentiment Over Time](https://miro.medium.com/max/700/1*neOrnIcTZEMh5KW0f6jupA.png "Te Papas Sentiments over Time")
 
-### 8. We are just a Loquacious lot. 2019 Kenyan Social Beat 
+<h2>  <a id="loquacious" href="https://medium.com/@hermanwandabwa/we-are-just-a-loquacious-lot-2019-kenyan-social-beat-458938d5a066?source=friends_link&sk=a8d224ee3022decff6b78a4b5f9f8846"> 8. We are just a Loquacious lot. 2019 Kenyan Social Beat </a> </h2>
+
 [Article](https://medium.com/@hermanwandabwa/we-are-just-a-loquacious-lot-2019-kenyan-social-beat-458938d5a066?source=friends_link&sk=a8d224ee3022decff6b78a4b5f9f8846)
 
 The project was an anlytical piece about what Kenyans really discuss online. Data in form of  tweets was from January to December 2019. 
@@ -92,7 +101,8 @@ Questions of Interest:-
 ![Nairobi City from the Space Station](https://miro.medium.com/max/700/1*L5nAfujAwemq-4f1eThOFg.jpeg "Nairobi City at night as  viewed from the International Space Station")
 
 ## R
-### 1. Emotion Detection in New Zealander's Tweets  Over the COVID-19 Lockdown Period
+<h2>  <a id="emotions" href="https://github.com/wandabwa2004/EmotionDetetection">1. Emotion Detection in New Zealander's Tweets  Over the COVID-19 Lockdown Period </a> </h2>
+
 [Repository](https://github.com/wandabwa2004/EmotionDetetection) | [Code](https://github.com/wandabwa2004/EmotionDetetection/blob/master/EmotionsDetection.R) 
 
 * Descriptive Analytics of tweets geolocated to New Zealand. 
@@ -100,7 +110,8 @@ Questions of Interest:-
 
 ![Emotions Distribution](https://github.com/wandabwa2004/EmotionDetetection/blob/master/emotions.jpg "New Zealander's Emotions During  COVID-19 Lockdown period")
 
-### 2. Speech Analytics: State of the Nation Addresses by Kenya's President, Uhuru Kenyatta
+<h2>  <a id="speech_analytics" href="https://github.com/wandabwa2004/StateoftheUnionAddresses_UK"> 2. Speech Analytics: State of the Nation Addresses by Kenya's President, Uhuru Kenyatta </a> </h2>
+
 [Repository](https://github.com/wandabwa2004/StateoftheUnionAddresses_UK) | [Code](https://github.com/wandabwa2004/StateoftheUnionAddresses_UK/blob/master/Uhuru.R)  [Blog Article](https://towardsdatascience.com/uhuru-kenyattas-2019-state-of-the-nation-address-most-positive-557d9cfb3f13?source=friends_link&sk=051b33656754906e8cd95c6182c693da)
 
 * Descriptive Analytics of Uhuru Kenyatta's State of  the  Nation speeches from 2014 - 2019. 
@@ -111,18 +122,22 @@ Questions of Interest:-
 ![Polarity in the speeches over time](https://github.com/wandabwa2004/StateoftheUnionAddresses_UK/blob/master/speeches.png "Polarity in Uhuru Kenyatta's Speeches between 2014 - 2019")
 
 ## SAS
-### 1. Black Friday Sales Analytics 
-[Repository](https://github.com/wandabwa2004/StateoftheUnionAddresses_UK) | [Code](https://github.com/wandabwa2004/SAS_Sales_Analysis/blob/master/BlackFriday.sas) | [Dataset](https://github.com/wandabwa2004/SAS_Sales_Analysis/blob/master/BlackFriday.csv) | [Analytics Output](https://github.com/wandabwa2004/SAS_Sales_Analysis/blob/master/Sales%20Analysis%20Results%20SAS.pdf)
+<h2>  <a id="black_friday" href="https://github.com/wandabwa2004/SAS_Sales_Analysis/"> 1. Black Friday Sales Analytics  </a> </h2>
+
+[Repository](https://github.com/wandabwa2004/SAS_Sales_Analysis/) | [Code](https://github.com/wandabwa2004/SAS_Sales_Analysis/blob/master/BlackFriday.sas) | [Dataset](https://github.com/wandabwa2004/SAS_Sales_Analysis/blob/master/BlackFriday.csv) | [Analytics Output](https://github.com/wandabwa2004/SAS_Sales_Analysis/blob/master/Sales%20Analysis%20Results%20SAS.pdf)
 
 ## Visualizations (PowerBI, Tablueau, ScatterText)
-### 1. PowerBI: Coronavirus numbers as at 10/03/2020
+
+<h2>  <a id="covid_powerBI" href="https://github.com/wandabwa2004/Visualizations/blob/master/PowerBI/Worldwide_Coronacases.pbix"> 1. PowerBI: Coronavirus numbers as at 10/03/2020</a> </h2>
+
 [Code](https://github.com/wandabwa2004/Visualizations/blob/master/PowerBI/Worldwide_Coronacases.pbix)
 
 * COVID-19 Numbers by 10/03/2020 in PowerBI.
 
 ![COVID-19 Numbers as at 10/03/2020](https://github.com/wandabwa2004/Visualizations/blob/master/PowerBI/coronaviz.jpg "COVID-19 Numbers as at 10/03/2020")
 
-### 2. ScatterText: Museum of  New Zealand Reviews TripAdvisor Reviews and Related Topics
+<h2>  <a id="scatter_tepapa" href="https://github.com/wandabwa2004/Visualizations/tree/master/Scattertext"> 2. ScatterText: Museum of  New Zealand Reviews TripAdvisor Reviews and Related Topics</a> </h2>
+
 [Repository](https://github.com/wandabwa2004/Visualizations/tree/master/Scattertext) 
 
 Used Scattertext package in Python to interactively visualize reviews related to the Museum of  New Zealand.
@@ -134,12 +149,13 @@ Used Scattertext package in Python to interactively visualize reviews related to
 ![Terms visualizations  in ScatterText](https://github.com/wandabwa2004/Visualizations/blob/master/Scattertext/tepapa_reviews.PNG "Terms visualizations  in ScatterText")
 
 ## Model Deployment 
-### 1. Kenyan Political Sentiments Monitor - The Polimeter
+<h2>  <a id="deployment_political" href="https://github.com/wandabwa2004/sent_analyzer_kenya"> 1. Kenyan Political Sentiments Monitor - The Polimeter</a> </h2>
+
 [Code](https://github.com/wandabwa2004/sent_analyzer_kenya) | [Deployed App](https://sentiment-politics-kenya.herokuapp.com/)
 
 ![Political Sentiment Analyzer](https://github.com/wandabwa2004/sent_analyzer_kenya/blob/master/sentianalyzer.PNG "Kenyan Political Sentiment Analyzer")
 
-## Data  Science and Engineering  Certifications
+<h2>  <a id="ds_eng"> Data  Science and Engineering  Certifications</a> </h2>
 ### Data  Science Foundations 
  * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/account/accomplishments/records/PFQR5F5UCMY4) 
  * [The Data Scientist’s Toolbox](https://www.coursera.org/account/accomplishments/records/YYD6FL74G32U)
@@ -151,5 +167,6 @@ Used Scattertext package in Python to interactively visualize reviews related to
  * [Building Batch Data Pipelines on GCP](https://www.coursera.org/account/accomplishments/records/GQA9NJRVWLJT)
  * [Preparing for the Google Cloud Professional Data Engineer Exam](https://www.coursera.org/account/accomplishments/records/6X7HCFRALZW5)
  
-## [Google Scholar Profile](https://scholar.google.com/citations?user=0iEgEHYAAAAJ&hl=en)
+<h2>  <a id="publications" href ="https://scholar.google.com/citations?user=0iEgEHYAAAAJ&hl=en"> Google Scholar Profile</a> </h2>
+
 
