@@ -158,6 +158,7 @@ Used Scattertext package in Python to interactively visualize reviews related to
 <h2>  <a id="ds_eng" href="#> Data  Science Foundations and Engineering Certifications</a> </h2>
  
 ### Data  Science Foundations 
+
  * [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/account/accomplishments/records/PFQR5F5UCMY4) 
  * [The Data Scientist’s Toolbox](https://www.coursera.org/account/accomplishments/records/YYD6FL74G32U)
  
