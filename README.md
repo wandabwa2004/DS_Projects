@@ -2,7 +2,7 @@
 This portfolio consists of several data science and anaytics projects illustrating the work I have done in order to further develop my data science skills.
 # Table of Contents
 ### 1. Python 
-  * Financial Crime Fraud Analytics
+  * [Financial Crime Fraud Analytics](Financial Crime Fraud Analytics)
   * Fitbit Data Analytics during COVID-19 Lockdown in New Zealand
   * NLP: Tweeting patterns during COVID-19 Lockdown in New Zealand
   * Sea Turtle Rescue Forecast Challenge.
@@ -16,7 +16,7 @@ This portfolio consists of several data science and anaytics projects illustrati
 
 # Projects
 ## Python
-### 1. [Financial Crime Fraud Analytics](https://github.com/wandabwa2004/Fraud_Analytics)(#financial_)
+### 1. [Financial Crime Fraud Analytics](https://github.com/wandabwa2004/Fraud_Analytics)
 [Repository](https://github.com/wandabwa2004/Fraud_Analytics) | [Notebook](https://github.com/wandabwa2004/Fraud_Analytics/blob/master/Fraud%20Detection%20.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/Fraud_Analytics/blob/master/Fraud%20Detection%20.ipynb)
 * Descriptive and Predictive Analytics for a Synthetic dataset on Financial crimes. 
 * The dataset https://www.kaggle.com/ntnu-testimon/paysim1/download is a synthetic one i.e. simulated using PaySim based on a sample of real transactions extracted from one month of financial logs from a mobile money service implemented in an African country. The dataset is scaled down 1/4 of the original dataset.
@@ -30,7 +30,7 @@ This portfolio consists of several data science and anaytics projects illustrati
 1. Fraud detection is a difficult process. This is especially compounded by the lack of integral data in the area.
 2. Tree based algorithms worked better in detection of fraud. This is partly attributed to the nature of data.
 
-### 2. Political Content Sentiment Analyzer  
+### 2. [Political Content Sentiment Analyzer](https://github.com/wandabwa2004/sent_analyzer_kenya)  
 In this  project, I setup a tweets  collection framework for tweets belonging to five politicians in Kenya. I analyzed the tweet sentiments/emotions over time, packaged the same in a Streamlit App and hosted the same on Heroku. 
 
 [Code](https://github.com/wandabwa2004/sent_analyzer_kenya)
