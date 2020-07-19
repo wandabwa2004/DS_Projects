@@ -3,7 +3,7 @@ This portfolio consists of several data science and anaytics projects illustrati
 # Table of Contents
 ### 1. Python 
   * [Financial Crime Fraud Analytics](#financialscrime)
-  * Fitbit Data Analytics during COVID-19 Lockdown in New Zealand
+  * [Fitbit Data Analytics during COVID-19 Lockdown in New Zealand](#politicalsentiment)
   * NLP: Tweeting patterns during COVID-19 Lockdown in New Zealand
   * Sea Turtle Rescue Forecast Challenge.
   * Bidirectional Encoder Representations from Transformers (BERT) in computation of a few African Cities Happiness
@@ -31,7 +31,8 @@ This portfolio consists of several data science and anaytics projects illustrati
 1. Fraud detection is a difficult process. This is especially compounded by the lack of integral data in the area.
 2. Tree based algorithms worked better in detection of fraud. This is partly attributed to the nature of data.
 
-### 2. [Political Content Sentiment Analyzer](https://github.com/wandabwa2004/sent_analyzer_kenya)  
+<h2>  <a id="politicalsentiment" href="https://github.com/wandabwa2004/sent_analyzer_kenya"> 2. Political Content Sentiment Analyzer </a> </h2>
+
 In this  project, I setup a tweets  collection framework for tweets belonging to five politicians in Kenya. I analyzed the tweet sentiments/emotions over time, packaged the same in a Streamlit App and hosted the same on Heroku. 
 
 [Code](https://github.com/wandabwa2004/sent_analyzer_kenya) | [Deployed App](https://sentiment-politics-kenya.herokuapp.com/)
