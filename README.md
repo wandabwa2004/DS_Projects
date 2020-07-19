@@ -135,7 +135,7 @@ Used Scattertext package in Python to interactively visualize reviews related to
 ### 1. Kenyan Political Sentiments Monitor - The Polimeter
 [Code](https://github.com/wandabwa2004/sent_analyzer_kenya) | [Deployed App](https://sentiment-politics-kenya.herokuapp.com/)
 
-![Political Sentiment Analyzer] (https://github.com/wandabwa2004/sent_analyzer_kenya/blob/master/sentianalyzer.PNG "Kenyan Political Sentiment Analyzer")
+![Political Sentiment Analyzer](https://github.com/wandabwa2004/sent_analyzer_kenya/blob/master/sentianalyzer.PNG "Kenyan Political Sentiment Analyzer")
 
 ## Data  Science and Engineering  Certifications
 ### Data  Science Foundations 
