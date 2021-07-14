@@ -2,7 +2,7 @@
 This portfolio consists of several data science and anaytics projects illustrating the work I have done in order to further develop my data science skills.
 # Table of Contents
 ### 1. Python 
-  * Online Sharepoint  Uploader
+  * [Online Sharepoint 365  Uploader](#sharepointuploader)
   * [Financial Crime Fraud Analytics](#financialscrime)
   * [Political Content Sentiment Analyzer](#politicalsentiment)
   * [Fitbit Data Analytics during COVID-19 Lockdown in New Zealand](#fitbit)
@@ -26,6 +26,29 @@ This portfolio consists of several data science and anaytics projects illustrati
 
 # Projects
 ## Python
+<h2>  <a id="sharepointuploader" href="https://github.com/wandabwa2004/SharepointUploader"> 1.Sharepoint 365 Uploader </a> </h2>
+[Repository](https://github.com/wandabwa2004/SharepointUploader) 
+![SharepointUploader](https://user-images.githubusercontent.com/8840942/125596131-b59d8c47-7aae-4d8b-ba10-d497db65f333.JPG)
+Tool designed and developed using Python and Streamlit to help you upload files to an online Sharepoint location. This works with Sharepoint 365 but can be modified to fit earlier SharePoint versions.Current functionality includes:
+
+* Specifying the folder path to the files to be  uploaded (Source URL).
+* Summary information of the files to be  uploaded. 
+* Specification of Sharepoint login and related upload details. 
+* Creation of  a folder based on the todays date format in the base URL that is user specified.
+* Upload of the files matching  the  specified extension (currently .xlsx) to the  new folder in the base URL. File format can be changed
+
+## Notes on Usage
+* A deployed version of  the app can be found here https://sharepointuploader.herokuapp.com/. The app can also be cloned and run locally using streamlit: `streamlit run SharepointUploader.py`. When doing this, ensure you have the required modules listed in the requirements file.
+* Make sure  the account  details for  accessing  Sharepoint on your  domain are valid. Normally, the username  is your domain specific email and password. 
+
+## Bugs, Enhancements and Comments
+All comments, bug reports and enhancement requests are welcome. To do so, please submit a new issue and I will work hard on improving the app. 
+
+## Future Functionality
+Future functionality will likely include:
+* Option to specify the file formsts  to be uploaded in a folder with mixed file types. 
+* Email trigger to the  username once  the files are all uploaded. 
+
 <h2>  <a id="financialscrime" href="https://github.com/wandabwa2004/Fraud_Analytics"> 1.Financial Crime Fraud Analytics </a> </h2>
 
 [Repository](https://github.com/wandabwa2004/Fraud_Analytics) | [Notebook](https://github.com/wandabwa2004/Fraud_Analytics/blob/master/Fraud%20Detection%20.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/Fraud_Analytics/blob/master/Fraud%20Detection%20.ipynb)
