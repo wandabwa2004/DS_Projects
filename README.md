@@ -37,8 +37,8 @@ Tool designed and developed using Python and Streamlit to help you upload files 
 * Specification of Sharepoint login and related upload details. 
 * Creation of  a folder based on the todays date format in the base URL that is user specified.
 * Upload of the files matching  the  specified extension (currently .xlsx) to the  new folder in the base URL. File format can be changed
-* 
-![Correlation Plot for Different Factors in Financial Crime](https://github.com/wandabwa2004/SharepointUploader/blob/main/sharepoint.png "Correlation of factors in financial crime")
+
+![Sharepoint Uploader](https://github.com/wandabwa2004/SharepointUploader/blob/main/sharepoint.png "Correlation of factors in financial crime")
 ## Notes on Usage
 * A deployed version of  the app can be found here https://sharepointuploader.herokuapp.com/. The app can also be cloned and run locally using streamlit: `streamlit run SharepointUploader.py`. When doing this, ensure you have the required modules listed in the requirements file.
 * Make sure  the account  details for  accessing  Sharepoint on your  domain are valid. Normally, the username  is your domain specific email and password. 
