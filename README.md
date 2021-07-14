@@ -2,6 +2,7 @@
 This portfolio consists of several data science and anaytics projects illustrating the work I have done in order to further develop my data science skills.
 # Table of Contents
 ### 1. Python 
+  * Online Sharepoint  Uploader
   * [Financial Crime Fraud Analytics](#financialscrime)
   * [Political Content Sentiment Analyzer](#politicalsentiment)
   * [Fitbit Data Analytics during COVID-19 Lockdown in New Zealand](#fitbit)
