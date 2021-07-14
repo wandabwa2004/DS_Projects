@@ -27,9 +27,7 @@ This portfolio consists of several data science and anaytics projects illustrati
 # Projects
 ## Python
 <h2>  <a id="sharepointuploader" href="https://github.com/wandabwa2004/SharepointUploader"> 1.Sharepoint 365 Uploader </a> </h2>
-[Repository](https://github.com/wandabwa2004/SharepointUploader) 
-![Fitbit Data Analytics](https://user-images.githubusercontent.com/8840942/125596021-ec98547a-2dff-4e33-ab3f-93c471a9ef31.JPG "Fitbit Data Analytics")
-![SharepointUploader](https://github.com/wandabwa2004/SharepointUploader/blob/master/SharepointUploader.JPG "SharePoint Uploader")
+https://github.com/wandabwa2004/SharepointUploader/blob/main/sharepoint.png
 Tool designed and developed using Python and Streamlit to help you upload files to an online Sharepoint location. This works with Sharepoint 365 but can be modified to fit earlier SharePoint versions.Current functionality includes:
 
 * Specifying the folder path to the files to be  uploaded (Source URL).
