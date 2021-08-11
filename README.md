@@ -48,7 +48,7 @@ All comments, bug reports and enhancement requests are welcome. To do so, please
 
 ## Future Functionality
 Future functionality will likely include:
-* Option to specify the file formsts  to be uploaded in a folder with mixed file types. 
+* Option to specify file formats  to be uploaded in a folder with mixed file types. 
 * Email trigger to the  username once  the files are all uploaded. 
 
 <h2>  <a id="financialscrime" href="https://github.com/wandabwa2004/Fraud_Analytics"> 2.Financial Crime Fraud Analytics </a> </h2>
