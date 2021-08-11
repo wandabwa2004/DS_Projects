@@ -30,7 +30,7 @@ This portfolio consists of several data science and anaytics projects illustrati
 
 [Repository](https://github.com/wandabwa2004/SharepointUploader)
 
-Tool designed and developed using Python and Streamlit to help you upload files to an online Sharepoint location. This works with Sharepoint 365 but can be modified to fit earlier SharePoint versions.Current functionality includes:
+Tool designed and developed using Python and Streamlit to help you upload files to an online Sharepoint location. This works with Sharepoint 365 but can be modified to fit earlier SharePoint versions. Current functionality includes:
 
 * Specifying the folder path to the files to be  uploaded (Source URL).
 * Summary information of the files to be  uploaded. 
