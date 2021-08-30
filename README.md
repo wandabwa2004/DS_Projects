@@ -1,5 +1,5 @@
 <!-- <p align="center"><img width=43.5% src="https://github.com/yashprakash13/data-another-day/blob/main/Data%20Another%20Day.png"></p> -->
-# Data Science and  Analytics Projects
+# Data Science, Engineering  and  Analytics Projects and Solutions 
 <h4 align="center">This portfolio consists of several data science and anaytics projects, concepts, tools and resources illustrating the work I have done in order to further develop my data science skills. 
 </h4>
 
