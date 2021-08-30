@@ -1,6 +1,6 @@
-<p align="center"><img width=43.5% src="https://github.com/yashprakash13/data-another-day/blob/main/Data%20Another%20Day.png"></p>
-
-<h4 align="center">A master repository of all Data Science projects, concepts, tools and resources that I learn and write about on my blog. Updated every week.
+<!-- <p align="center"><img width=43.5% src="https://github.com/yashprakash13/data-another-day/blob/main/Data%20Another%20Day.png"></p> -->
+# Data Science and  Analytics Projects
+<h4 align="center">This portfolio consists of several data science and anaytics projects, concepts, tools and resources illustrating the work I have done in order to further develop my data science skills. 
 </h4>
 
 <p align="center">
@@ -8,18 +8,18 @@
     <img src="https://img.shields.io/badge/Python-3.6%2C%203.7%2C%203.8%2C%203.9-green?style=for-the-badge"
          alt="Python versions">
   </a>
-  <a href="https://github.com/yashprakash13">
+  <a href="https://github.com/wandabwa2004">
     <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge"
-         alt="My GitHub">
+         alt="GitHub">
   </a>
-  <a href="https://medium.com/@ipom">
+  <a href="https://medium.com/@hermanwandabwa">
     <img src="https://img.shields.io/badge/Medium-Blog-orange?style=for-the-badge"
-         alt="My Medium Data Science Blog">
+         alt="Medium Data  Science  Blog">
   </a><br/>
 </p>
 
-# Data Science and  Analytics Projects
-This portfolio consists of several data science and anaytics projects illustrating the work I have done in order to further develop my data science skills.
+
+
 # Table of Contents
 ### 1. Python 
   * [Online Sharepoint 365  Uploader](#sharepointuploader)
