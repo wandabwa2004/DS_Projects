@@ -50,7 +50,7 @@
 ## Python
 <h2>  <a id="olympicsanalytics" href="https://github.com/wandabwa2004/OlympicsAnalytics"> 1. Olympics Data  Analytics from (1896 - 2020) </a> </h2>
 
-[Link](https://github.com/wandabwa2004/OlympicsAnalytics/blob/main/Olympic%20Medals%20Over%20Time.ipynb)
+[Link to Notebook](https://github.com/wandabwa2004/OlympicsAnalytics/blob/main/Olympic%20Medals%20Over%20Time.ipynb)
 
 EDA and analytics on a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Tokyo in 2020. The data was scraped from www.sports-reference.com.
 
