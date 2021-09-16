@@ -57,7 +57,7 @@ EDA and analytics on a historical dataset on the modern Olympic Games, including
 **Objective:**
 To visualize how Olympics has evolved over time with special emphasis on African countries that began participating quite many years after the competitions began. This is achieved by merging and visualizing output from the above datasets.
 
-![Olympics Data  Analytics](https://github.com/wandabwa2004/OlympicsAnalytics/blob/main/AfricanMedals.mp4 "African Countries Medal Tally")
+![Olympics Data  Analytics](https://github.com/wandabwa2004/OlympicsAnalytics/blob/main/AfricanMedals.gif "African Countries Medal Tally")
 
 <h2>  <a id="socialnetwork1" href="https://hermanwandabwa.medium.com/inside-dp-rutos-social-network-engine-part-1-634851d02bfa?sk=f5826ac72d7ca6f8661f9e3148c3fd81"> 2.Inside  DP Rutos Social Network </a> </h2>
 
