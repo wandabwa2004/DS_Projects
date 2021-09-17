@@ -22,7 +22,7 @@
 
 # Table of Contents
 ### 1. Python 
-  * [Timeseries Modelling for Sales Data)](#timeseriesales) 
+  * [Timeseries Modelling for Sales Data](#timeseriesales) 
   * [Olympics Data  Analytics from (1896 - 2020)](#olympicsanalytics) 
   * [Inside DP Ruto’s Social Network Engine (Part 1)](#socialnetwork1)
   * [Online Sharepoint 365  Uploader](#sharepointuploader)
