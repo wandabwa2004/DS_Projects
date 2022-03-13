@@ -225,7 +225,7 @@ Questions of Interest:-
 
 [Repository](https://github.com/wandabwa2004/SAS_Sales_Analysis/) | [Code](https://github.com/wandabwa2004/SAS_Sales_Analysis/blob/master/BlackFriday.sas) | [Dataset](https://github.com/wandabwa2004/SAS_Sales_Analysis/blob/master/BlackFriday.csv) | [Analytics Output](https://github.com/wandabwa2004/SAS_Sales_Analysis/blob/master/Sales%20Analysis%20Results%20SAS.pdf)
 
-## Visualizations (PowerBI, Tablueau, ScatterText)
+## Visualizations (PowerBI, Tableau, ScatterText)
 
 <h2>  <a id="covid_powerBI" href="https://github.com/wandabwa2004/Visualizations/blob/master/PowerBI/Worldwide_Coronacases.pbix"> 1. PowerBI: Coronavirus numbers as at 10/03/2020</a> </h2>
 
