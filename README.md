@@ -39,7 +39,7 @@
   * [Speech Analytics: State of the Nation Addresses by Kenya's President, Uhuru Kenyatta](#speech_analytics)
 ### 3. SAS
   * [Black Friday Sales Analytics](#black_friday)
-### 4. Visualizations (PowerBI, Tablueau, ScatterText)
+### 4. Visualizations (PowerBI, Tableau, ScatterText)
   * [PowerBI: Coronavirus numbers as at 10/03/2020](#covid_powerBI)
   * [ScatterText: Museum of  New Zealand Reviews TripAdvisor Reviews and Related Topics](#scatter_tepapa)
 ### 5. Model Deployment 
