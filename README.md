@@ -22,6 +22,8 @@
 
 # Table of Contents
 ### 1. Python 
+  * [Harnessing GPT-Powered AI to Query and Summarize Multiple Hansard Reports in the Kenyan Parliament](#GPhansard) 
+  * [Uncovering Patterns and Trends in Ausgrid Power Outage Data](#ausgrid)
   * [Timeseries Modelling for Sales Data](#timeseriesales) 
   * [Olympics Data  Analytics from (1896 - 2020)](#olympicsanalytics) 
   * [Inside DP Ruto’s Social Network Engine (Part 1)](#socialnetwork1)
