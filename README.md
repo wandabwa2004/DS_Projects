@@ -22,7 +22,7 @@
 
 # Table of Contents
 ### 1. Python 
-  * [Harnessing GPT-Powered AI to Query and Summarize Multiple Hansard Reports in the Kenyan Parliament](#GPThansard) 
+  * [Harnessing GPT-Powered AI to Query and Summarize Multiple Hansard Reports in the Kenyan Parliament](#gpthansard) 
   * [Uncovering Patterns and Trends in Ausgrid Power Outage Data](#ausgrid)
   * [Timeseries Modelling for Sales Data](#timeseriesales) 
   * [Olympics Data  Analytics from (1896 - 2020)](#olympicsanalytics) 
@@ -51,7 +51,7 @@
 
 # Projects
 ## Python
-<h2>  <a id="GPThansard" href="https://github.com/wandabwa2004/GPTHansard"> Harnessing GPT-Powered AI to Query and Summarize Multiple Hansard Reports in the Kenyan Parliament</a> </h2>
+<h2>  <a id="gpthansard" href="https://github.com/wandabwa2004/GPTHansard"> Harnessing GPT-Powered AI to Query and Summarize Multiple Hansard Reports in the Kenyan Parliament</a> </h2>
 
 [Link to Article:](https://hermanwandabwa.medium.com/gpt-powered-insights-unleashing-the-867084d0e4f9) with all code 
 
@@ -153,7 +153,7 @@ Future functionality will likely include:
 * Option to specify file formats  to be uploaded in a folder with mixed file types. 
 * Email trigger to the  username once  the files are all uploaded. 
 
-<h2>  <a id="financialscrime" href="https://github.com/wandabwa2004/Fraud_Analytics"> 5 .Financial Crime Fraud Analytics </a> </h2>
+<h2>  <a id="financialscrime" href="https://github.com/wandabwa2004/Fraud_Analytics"> Financial Crime Fraud Analytics </a> </h2>
 
 [Repository](https://github.com/wandabwa2004/Fraud_Analytics) | [Notebook](https://github.com/wandabwa2004/Fraud_Analytics/blob/master/Fraud%20Detection%20.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/Fraud_Analytics/blob/master/Fraud%20Detection%20.ipynb)
 * Descriptive and Predictive Analytics for a Synthetic dataset on Financial crimes. 
@@ -168,20 +168,20 @@ Future functionality will likely include:
 1. Fraud detection is a difficult process. This is especially compounded by the lack of integral data in the area.
 2. Tree based algorithms worked better in detection of fraud. This is partly attributed to the nature of data.
 
-<h2>  <a id="politicalsentiment" href="https://github.com/wandabwa2004/sent_analyzer_kenya"> 6. Political Content Sentiment Analyzer </a> </h2>
+<h2>  <a id="politicalsentiment" href="https://github.com/wandabwa2004/sent_analyzer_kenya"> Political Content Sentiment Analyzer </a> </h2>
 
 In this  project, I setup a tweets  collection framework for tweets belonging to five politicians in Kenya. I analyzed the tweet sentiments/emotions over time, packaged the same in a Streamlit App and hosted the same on Heroku. 
 
 [Code](https://github.com/wandabwa2004/sent_analyzer_kenya) | [Deployed App](https://sentiment-politics-kenya.herokuapp.com/)
 
-<h2>  <a id="fitbit" href="https://github.com/wandabwa2004/Fitbit-Analytics-Lockdown/"> 7. Fitbit Data Analytics during  COVID-19 Lockdown in New Zealand </a> </h2>
+<h2>  <a id="fitbit" href="https://github.com/wandabwa2004/Fitbit-Analytics-Lockdown/"> Fitbit Data Analytics during  COVID-19 Lockdown in New Zealand </a> </h2>
 
 [Repository](https://github.com/wandabwa2004/Fitbit-Analytics-Lockdown/) | [Notebook](https://github.com/wandabwa2004/Fitbit-Analytics-Lockdown/blob/master/Fitbit%20Analytics%20-%20Lockdown.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/Fitbit-Analytics-Lockdown/blob/master/Fitbit%20Analytics%20-%20Lockdown.ipynb) | [Blog Article](https://medium.com/swlh/6-kgs-lost-in-31-days-of-covid-19-lockdown-a-data-analytics-perspective-a0061e0689f2?source=friends_link&sk=7c19969f1c54fb013d3cdae45319d78d)
 * Analytics of my body, activity and sleep data during the COVID-19 lockdown. 
 * Identification of important factors that necessitated weight loss during the lockdown time. 
 ![Fitbit Data Analytics](https://github.com/wandabwa2004/Fitbit-Analytics-Lockdown/blob/master/fitbit.png "Fitbit Data Analytics")
 
-<h2>  <a id="covid_tweeting" href="https://github.com/wandabwa2004/COVID-19-Lockdown"> 8. NLP: Tweeting patterns during  COVID-19 Lockdown in New Zealand </a> </h2>
+<h2>  <a id="covid_tweeting" href="https://github.com/wandabwa2004/COVID-19-Lockdown"> NLP: Tweeting patterns during  COVID-19 Lockdown in New Zealand </a> </h2>
 
 [Repository](https://github.com/wandabwa2004/COVID-19-Lockdown) | [Notebook](https://github.com/wandabwa2004/COVID-19-Lockdown/blob/master/COVID-19%20Lockdown%20Tweeting.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/COVID-19-Lockdown/blob/master/COVID-19%20Lockdown%20Tweeting.ipynb)
 * Collection of streaming tweets from Auckland and Wellington, New Zealand's largest cities during  COVID-19 Lockdown period. 
@@ -190,7 +190,7 @@ In this  project, I setup a tweets  collection framework for tweets belonging to
 
 ![Tweeting  Patterns during  COVID-19 Lockdown](https://github.com/wandabwa2004/COVID-19-Lockdown/blob/master/tweeting%20_covid.png "COVID-19 Tweeting Patterns  in NZ")
 
-<h2>  <a id="sea_turles" href="https://github.com/wandabwa2004/sea-turtle-forecast-challenge"> 9. Sea Turtle Rescue Forecast Challenge </a> </h2>
+<h2>  <a id="sea_turles" href="https://github.com/wandabwa2004/sea-turtle-forecast-challenge"> Sea Turtle Rescue Forecast Challenge </a> </h2>
 
 [Repository](https://github.com/wandabwa2004/sea-turtle-forecast-challenge) | [Notebook](https://github.com/wandabwa2004/sea-turtle-forecast-challenge/blob/master/Sea%20Turtle%20Rescue%20Forecast%20Challenge.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/sea-turtle-forecast-challenge/blob/master/Sea%20Turtle%20Rescue%20Forecast%20Challenge.ipynb)
 
@@ -200,7 +200,7 @@ The objective of the competition was to create a machine learning model to help 
 
 ![Turtles Capture and  Release Programme](https://github.com/wandabwa2004/sea-turtle-forecast-challenge/blob/master/turtles.png "Captured Numbers/Year")
 
-<h2>  <a id="bert_happiness" href="https://github.com/wandabwa2004/BERT_Happiness_Index"> 10. Bidirectional Encoder Representations from Transformers (BERT) in computation of a few African Cities Happiness </a> </h2>
+<h2>  <a id="bert_happiness" href="https://github.com/wandabwa2004/BERT_Happiness_Index"> Bidirectional Encoder Representations from Transformers (BERT) in computation of a few African Cities Happiness </a> </h2>
 
 [Repository](https://github.com/wandabwa2004/BERT_Happiness_Index) | [Notebook](https://github.com/wandabwa2004/BERT_Happiness_Index/blob/master/BERT-%20Happiness2.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/wandabwa2004/BERT_Happiness_Index/blob/master/BERT-%20Happiness2.ipynb) | [Blog Article](https://towardsdatascience.com/kigali-the-2019-happiness-capital-a0085dc1efc4?source=friends_link&sk=4ea0299439406d885c6c4d758f630643)
 * Collection of  tweets from the different cities via geocoding. 
@@ -211,7 +211,7 @@ The objective of the competition was to create a machine learning model to help 
 
 ![BERT Happiness Index](https://github.com/wandabwa2004/BERT_Happiness_Index/blob/master/berthappiness.PNG "BERT Happiness Index for a few African Cities")
 
-<h2>  <a id="tepapa_sentiments" href="https://towardsdatascience.com/te-papa-tongarewa-museum-of-new-zealand-sentimental-footing-d062e41e430f?source=friends_link&sk=2f0c07b247153effb1639d5193a898d3"> 11. Te Papa Tongarewa (Museum of New Zealand) Sentimental Footing</a> </h2>
+<h2>  <a id="tepapa_sentiments" href="https://towardsdatascience.com/te-papa-tongarewa-museum-of-new-zealand-sentimental-footing-d062e41e430f?source=friends_link&sk=2f0c07b247153effb1639d5193a898d3"> Te Papa Tongarewa (Museum of New Zealand) Sentimental Footing</a> </h2>
 
 [Article](https://towardsdatascience.com/te-papa-tongarewa-museum-of-new-zealand-sentimental-footing-d062e41e430f?source=friends_link&sk=2f0c07b247153effb1639d5193a898d3)
 
@@ -221,7 +221,7 @@ Code Snippets with:-
 
 ![Sentiment Over Time](https://miro.medium.com/max/700/1*neOrnIcTZEMh5KW0f6jupA.png "Te Papas Sentiments over Time")
 
-<h2>  <a id="loquacious" href="https://medium.com/@hermanwandabwa/we-are-just-a-loquacious-lot-2019-kenyan-social-beat-458938d5a066?source=friends_link&sk=a8d224ee3022decff6b78a4b5f9f8846"> 12. We are just a Loquacious lot. 2019 Kenyan Social Beat </a> </h2>
+<h2>  <a id="loquacious" href="https://medium.com/@hermanwandabwa/we-are-just-a-loquacious-lot-2019-kenyan-social-beat-458938d5a066?source=friends_link&sk=a8d224ee3022decff6b78a4b5f9f8846"> We are just a Loquacious lot. 2019 Kenyan Social Beat </a> </h2>
 
 [Article](https://medium.com/@hermanwandabwa/we-are-just-a-loquacious-lot-2019-kenyan-social-beat-458938d5a066?source=friends_link&sk=a8d224ee3022decff6b78a4b5f9f8846)
 
