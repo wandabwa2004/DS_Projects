@@ -70,6 +70,7 @@ The  analysis  follows the below : -
 <h2>  <a id="ausgrid" href="https://github.com/wandabwa2004/Data-Analysis/tree/main/Ausgrid%20Outages"> Uncovering Patterns and Trends in Ausgrid Power Outage Data]</a> </h2>
 
 [Link to Notebook](https://github.com/wandabwa2004/Data-Analysis/blob/main/Ausgrid%20Outages/Historical_Data_Analysis.ipynb)
+[Link to Article]()
 
 Power outages are a prevalent challenge encountered by utility companies, highlighting the need for a thorough analysis of historical data to understand patterns and trends. I analysed the historical outage data for Ausgrid, Australia’s largest electricity distributor, which services 1.7 million customers across Sydney, the Hunter Valley, and the Central Coast.
 
