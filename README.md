@@ -51,15 +51,15 @@
 
 # Projects
 ## Python
-<h2>  <a id="GPThansard" href="https://github.com/wandabwa2004/Timeseries-Modelling"> 1. Harnessing GPT-Powered AI to Query and Summarize Multiple Hansard Reports in the Kenyan Parliament</a> </h2>
+<h2>  <a id="GPThansard" href="https://github.com/wandabwa2004/GPTHansard"> Harnessing GPT-Powered AI to Query and Summarize Multiple Hansard Reports in the Kenyan Parliament</a> </h2>
 
-[Link to Article:](https://hermanwandabwa.medium.com/gpt-powered-insights-unleashing-the-867084d0e4f9)
+[Link to Article:](https://hermanwandabwa.medium.com/gpt-powered-insights-unleashing-the-867084d0e4f9) with all code 
 
 The Hansard and Audio Services Directorate within the Kenyan Parliament is responsible for recording and producing verbatim reports of parliamentary proceedings and committee deliberations. With a curiosity to understand the topics discussed by members of parliament over time, I sought to explore the Hansard reports for specific sessions or sittings. However, due to the length of these reports and the challenge of identifying relevant dates, this endeavor proved to be time-consuming and potentially unproductive.
 
 This led me to explore effective methods of querying PDF documents and obtaining insightful information on specific topics. After considering various options, I decided to leverage Large Language Models (LLMs), with OpenAI being my preferred choice.
 
-In this article, I will discuss the following topics:
+The  analysis  follows the below : -
 
 1. Sourcing data: Extracting PDFs from the official website, as they are publicly available.
 2. PDFs Validity Check
@@ -67,34 +67,23 @@ In this article, I will discuss the following topics:
 4. Querying the Hansard reports for 2018: Although there is no particular significance attributed to the 2018 reports, I chose this subset for demonstration purposes.
 5. Summarizing PDFs
 
-![Sales Data  Timeseries Modelling](https://github.com/wandabwa2004/Timeseries-Modelling/blob/master/timeseries.png "Time Series  Modelling")
+<h2>  <a id="ausgrid" href="https://github.com/wandabwa2004/Data-Analysis/tree/main/Ausgrid%20Outages"> Uncovering Patterns and Trends in Ausgrid Power Outage Data]</a> </h2>
+
+[Link to Notebook](https://github.com/wandabwa2004/Data-Analysis/blob/main/Ausgrid%20Outages/Historical_Data_Analysis.ipynb)
+
+Power outages are a prevalent challenge encountered by utility companies, highlighting the need for a thorough analysis of historical data to understand patterns and trends. I analysed the historical outage data for Ausgrid, Australia’s largest electricity distributor, which services 1.7 million customers across Sydney, the Hunter Valley, and the Central Coast.
 
 
-<h2>  <a id="timeseriesales" href="https://github.com/wandabwa2004/Timeseries-Modelling"> 1. Sales Data  Timeseries Modelling</a> </h2>
+In summary:
 
-[Link to Notebook](https://github.com/wandabwa2004/TimeseriesModelling/blob/master/Data%20Science%20Assessment%20-%20Sales%20Records%20Predictions.ipynb)
-
-This is a prediction problem based on a time-series dataset of online sales of a UK-based store. The company sells unique all-occasion giftware. Wholesalers make up a high number of their customers. The sales data is from 01/12/2009 to 09/12/2011. The problem here is to predict the sales for the next 22 days based on this historical data as the owner is interested in knowing the expected revenue at this time to be sure of the sports car he buys his partner for Christmas.
-
-**Dataset**
-Dataset has 1067371 sales records. Each record is identified by 8 attributes i.e. Invoice, StockCode, Description, Quantity, InvoiceDate, Price, Customer ID and Country . Individual descriptions are found here https://www.kaggle.com/mashlyn/online-retail-ii-uci#
-
-Dataset name: online_retail_II.csv and can be found here https://www.kaggle.com/mashlyn/online-retail-ii-uci. I could not directly upload it here due to the 25MB size limitation.
-
-**What the Notebook Covers:**
-1. Ingesting the dataset
-2. Perform Exploratory Data Analysis (EDA). This includes operations related to: -
-a) Total daily, weekly, and monthly sales volumes.
-b) Last months’ revenue share by product and by customer.
-c) Weighted average monthly sale price by volume
-3. Data Cleaning and Encoding
-4. Data Modelling (Using Facebook's Prophet)in relation to time series-based revenue prediction.
-
-![Sales Data  Timeseries Modelling](https://github.com/wandabwa2004/Timeseries-Modelling/blob/master/timeseries.png "Time Series  Modelling")
+1. The analysis shows that equipment faults have consistently been a major reason for power outages in the Ausgrid network.
+2. The year 2020 recorded the highest number of outages during the period covered by the dataset.
+3. Based on the data, Gosford, Hornsby, and Wyong were the locations most affected by power outages. Gosford’s cause of outages is mostly environmental-related factors.
+4. Power outages were found to be more prevalent in the afternoons, with a peak at around 6 PM across all days of the week. As such, Ausgrid’s rostering for the afternoon shift should consider having more workers on standby. Mornings and late evenings are usually quieter periods in terms of power outages.
+5. The analysis indicates that power outages are more prevalent on Saturdays. Therefore, there is a need for better workforce planning on this day.
 
 
-
-<h2>  <a id="timeseriesales" href="https://github.com/wandabwa2004/Timeseries-Modelling"> 1. Sales Data  Timeseries Modelling</a> </h2>
+<h2>  <a id="timeseriesales" href="https://github.com/wandabwa2004/Timeseries-Modelling"> Sales Data  Timeseries Modelling</a> </h2>
 
 [Link to Notebook](https://github.com/wandabwa2004/TimeseriesModelling/blob/master/Data%20Science%20Assessment%20-%20Sales%20Records%20Predictions.ipynb)
 
@@ -116,7 +105,7 @@ c) Weighted average monthly sale price by volume
 
 ![Sales Data  Timeseries Modelling](https://github.com/wandabwa2004/Timeseries-Modelling/blob/master/timeseries.png "Time Series  Modelling")
 
-<h2>  <a id="olympicsanalytics" href="https://github.com/wandabwa2004/OlympicsAnalytics"> 2. Olympics Data  Analytics from (1896 - 2020) </a> </h2>
+<h2>  <a id="olympicsanalytics" href="https://github.com/wandabwa2004/OlympicsAnalytics"> Olympics Data  Analytics from (1896 - 2020) </a> </h2>
 
 [Link to Notebook](https://github.com/wandabwa2004/OlympicsAnalytics/blob/main/Olympic%20Medals%20Over%20Time.ipynb)
 
@@ -127,7 +116,7 @@ To visualize how Olympics has evolved over time with special emphasis on African
 
 ![Olympics Data  Analytics](https://github.com/wandabwa2004/OlympicsAnalytics/blob/main/AfricanMedals.gif "African Countries Medal Tally")
 
-<h2>  <a id="socialnetwork1" href="https://hermanwandabwa.medium.com/inside-dp-rutos-social-network-engine-part-1-634851d02bfa?sk=f5826ac72d7ca6f8661f9e3148c3fd81"> 3.Inside  DP Rutos Social Network </a> </h2>
+<h2>  <a id="socialnetwork1" href="https://hermanwandabwa.medium.com/inside-dp-rutos-social-network-engine-part-1-634851d02bfa?sk=f5826ac72d7ca6f8661f9e3148c3fd81"> Inside  DP Rutos Social Network </a> </h2>
 
 [Link](https://hermanwandabwa.medium.com/inside-dp-rutos-social-network-engine-part-1-634851d02bfa?sk=f5826ac72d7ca6f8661f9e3148c3fd81)
 
@@ -139,7 +128,7 @@ Social network mining for  users within Kenya's Deputy President's Twitter accou
 
 ![DP Ruto's  Twitter Social Network Engine](https://github.com/wandabwa2004/SocialNetworkMining/blob/main/rutonetwork.png "Social Influence  Network Map")
 
-<h2>  <a id="sharepointuploader" href="https://github.com/wandabwa2004/SharepointUploader"> 4 .Sharepoint 365 Uploader </a> </h2>
+<h2>  <a id="sharepointuploader" href="https://github.com/wandabwa2004/SharepointUploader"> Sharepoint 365 Uploader </a> </h2>
 
 [Repository](https://github.com/wandabwa2004/SharepointUploader)
 
