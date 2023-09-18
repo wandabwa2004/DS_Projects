@@ -22,6 +22,8 @@
 
 # Table of Contents
 ### 1. Python 
+  * [Drive Customer Success: Supercharging Safaricom’s Product FAQs with Llama 2 Model](#llama2finetuning)  
+  * [Web Scraping Product-Driven Question-Answer Pairs](#webscraper)  
   * [Harnessing GPT-Powered AI to Query and Summarize Multiple Hansard Reports in the Kenyan Parliament](#gpthansard) 
   * [Uncovering Patterns and Trends in Ausgrid Power Outage Data](#ausgrid)
   * [Timeseries Modelling for Sales Data](#timeseriesales) 
@@ -51,6 +53,31 @@
 
 # Projects
 ## Python
+<h2><a id="llama2finetuning" href="https://hermanwandabwa.medium.com/finetuning-llama-2-model-on-safaricoms-product-related-faqs-c9b226a43106"> Drive Customer Success: Supercharging Safaricom’s Product FAQs with Llama 2 Model </a> </h2>
+
+Transforming Customer Experiences: How a Finetuned Llama 2 Model Can Empower Product FAQs:
+
+[Link to Article:](https://hermanwandabwa.medium.com/finetuning-llama-2-model-on-safaricoms-product-related-faqs-c9b226a43106) with all code 
+
+I detail how I finetuned an open-source Llama 2 model with Safaricom’s product and service-related FAQ question and answer pairs. Models such as Llama 2 possess the capability to predict the subsequent token within a sequence. However, this predictive ability alone does not render them highly effective virtual assistants, as they do not inherently respond to explicit instructions. To bridge this gap, a technique known as instruction tuning is applied to align their responses more closely with human expectations. I made use of Supervised Fine-Tuning (SFT) with the FAQ pairs. In this approach, models are subjected to training on a dataset consisting of paired instructions and corresponding responses, as in our case with the Question-Answer pairs. The goal is to optimize the internal model parameters within the LLM to minimize the disparity between the generated answers and the ground-truth responses, which serve as reference labels.
+
+
+<h2><a id="webscraper" href="https://hermanwandabwa.medium.com/web-scraping-product-driven-question-answer-pairs-214988cdfed4"> Web Scraping Product-Driven Question-Answer Pairs </a> </h2>
+
+[Link to Article:](https://hermanwandabwa.medium.com/web-scraping-product-driven-question-answer-pairs-214988cdfed4) with all code 
+
+This is part one of a two-part series where I build a scraper to get most FAQs about Safaricom products to use later on in fine-tuning an open-source Llama 2 Large Language Model on the data and eventually developing a chatbot that users could interact with the fine-tuned model.
+
+I used the following Python packages: 
+
+1. BeautifulSoup: to parse HTML and XML documents, making it easier to extract information from web pages.
+2. Selenium: to automate interactions with the website. It’s particularly useful for scraping dynamic content and interacting with JavaScript-driven pages.
+3. Pandas: to manipulate and store the data.
+4. Random: to add random delays between requests to avoid overloading the server.
+
+I was able  to scrape  and store  1759 non-null product-related FAQs and their answers here https://www.safaricom.co.ke/media-center-landing/frequently-asked-questions
+
+   
 <h2>  <a id="gpthansard" href="https://github.com/wandabwa2004/GPTHansard"> Harnessing GPT-Powered AI to Query and Summarize Multiple Hansard Reports in the Kenyan Parliament</a> </h2>
 
 [Link to Article:](https://hermanwandabwa.medium.com/gpt-powered-insights-unleashing-the-867084d0e4f9) with all code 
