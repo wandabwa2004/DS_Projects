@@ -21,7 +21,10 @@
 
 
 # Table of Contents
-### 1. Python 
+### 1. Large Language  Models (LLMs)  and  Generative AI (Gen AI) 
+* [Drive Customer Success: Supercharging Safaricom’s Product FAQs with Llama 2 Model](#llama2finetuning) 
+
+### 2. Python 
   * [Drive Customer Success: Supercharging Safaricom’s Product FAQs with Llama 2 Model](#llama2finetuning)  
   * [Web Scraping Product-Driven Question-Answer Pairs](#webscraper)  
   * [Harnessing GPT-Powered AI to Query and Summarize Multiple Hansard Reports in the Kenyan Parliament](#gpthansard) 
@@ -38,20 +41,29 @@
   * [Bidirectional Encoder Representations from Transformers (BERT) in computation of a few African Cities Happiness](#bert_happiness)
   * [Te Papa Tongarewa (Museum of New Zealand) Sentimental Footing](#tepapa_sentiments)
   * [We are just a Loquacious lot. 2019 Kenyan Social Beat](#loquacious)
-### 2. R 
+### 3. R 
   * [Emotion Detection in New Zealander's Tweets  Over the COVID-19 Lockdown Period](#emotions)
   * [Speech Analytics: State of the Nation Addresses by Kenya's President, Uhuru Kenyatta](#speech_analytics)
-### 3. SAS
+### 4. SAS
   * [Black Friday Sales Analytics](#black_friday)
-### 4. Visualizations (PowerBI, Tableau, ScatterText)
+### 5. Visualizations (PowerBI, Tableau, ScatterText)
   * [PowerBI: Coronavirus numbers as at 10/03/2020](#covid_powerBI)
   * [ScatterText: Museum of  New Zealand Reviews TripAdvisor Reviews and Related Topics](#scatter_tepapa)
-### 5. Model Deployment 
+### 6. Model Deployment 
   * [Kenyan Political Sentiments Monitor - The Polimeter](#deployment_political)
-### 6. [Data  Science and Engineering  Certifications](#ds_eng)
-### 7. [Publications](#publications) 
+### 7. [Data  Science and Engineering  Certifications](#ds_eng)
+### 8. [Publications](#publications) 
 
 # Projects
+## Large Language  Models (LLMs)  and  Generative AI (Gen AI) 
+<h2>  <a id="llmsknowitall" href="https://github.com/wandabwa2004/llmchatbot"> Sales Data  Timeseries Modelling</a> </h2>
+
+KnowItAll: Your AI-Powered  Assistant
+
+[Link to the repo and code:](https://github.com/wandabwa2004/llmchatbot) 
+
+I detail how I developed a multi-functional chatbot named KnowItAll, powered by OpenAI’s GPT-4 API, to handle diverse tasks such as answering questions, generating content, translating text, and writing code. While GPT-4 inherently possesses the ability to generate responses based on contextual understanding, this alone does not make it an intuitive assistant for specific use cases. To address this, KnowItAll leverages carefully crafted system and feature-specific prompts to align the AI's responses more closely with user expectations. By tailoring the input prompts to predefined user needs—such as content generation or code writing—the chatbot effectively serves as a highly capable and adaptive virtual assistant. This approach ensures that the chatbot not only understands explicit instructions but also delivers responses optimized for each feature, enhancing user interaction and satisfaction.
+
 ## Python
 <h2><a id="llama2finetuning" href="https://hermanwandabwa.medium.com/finetuning-llama-2-model-on-safaricoms-product-related-faqs-c9b226a43106"> Drive Customer Success: Supercharging Safaricom’s Product FAQs with Llama 2 Model </a> </h2>
 
