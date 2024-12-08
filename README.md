@@ -56,7 +56,7 @@
 
 # Projects
 ## Large Language  Models (LLMs)  and  Generative AI (Gen AI) 
-<h2>  <a id="llmsknowitall" href="https://github.com/wandabwa2004/llmchatbot"> Sales Data  Timeseries Modelling</a> </h2>
+<h2>  <a id="llmsknowitall" href="https://github.com/wandabwa2004/llmchatbot"> KnowItAll: Your AI-Powered  Assistant </a> </h2>
 
 KnowItAll: Your AI-Powered  Assistant
 
