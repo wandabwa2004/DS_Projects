@@ -22,7 +22,7 @@
 
 # Table of Contents
 ### 1. Large Language  Models (LLMs)  and  Generative AI (Gen AI) 
-* [Drive Customer Success: Supercharging Safaricom’s Product FAQs with Llama 2 Model](#llama2finetuning) 
+* [KnowItAll: Your AI-Powered  Assistant](#llmsknowitall) 
 
 ### 2. Python 
   * [Drive Customer Success: Supercharging Safaricom’s Product FAQs with Llama 2 Model](#llama2finetuning)  
