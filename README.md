@@ -1,7 +1,7 @@
 <!-- <p align="center"><img width=43.5% src="https://github.com/yashprakash13/data-another-day/blob/main/Data%20Another%20Day.png"></p> -->
 # Artificial Intelligence(AI),Generative AI  (Gen AI), Data Science, Engineering  and  Analytics Projects and Solutions 
-<p align="justify"> Senior Data Scientist with extensive experience in the financial sector, specializing in developing innovative AI and data-driven solutions. My portfolio showcases a range of self-driven projects that demonstrate my passion for pushing the boundaries of technology and solving complex problems.
-<br>
+<p align="justify"> Senior Data Scientist with extensive experience in the financial sector, specializing in developing innovative AI and data-driven solutions. My portfolio showcases a range of self-driven projects that demonstrate my passion for pushing the boundaries of technology and solving complex problems. <br><br>
+
 My work spans multiple domains: <br>
   1. **Artificial Intelligence**: Custom AI solutions leveraging deep learning and machine learning algorithms to solve complex business challenges.<br>
   2. **Generative AI and LLMs**: Cutting-edge projects exploring the capabilities of large language models, text-to-image generation, and other generative technologies to create innovative applications.<br>
@@ -15,8 +15,10 @@ Each project in this portfolio represents independent work completed alongside m
 
 <p align="center">
   <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Python-3.6%2C%203.7%2C%203.8%2C%203.9-green?style=for-the-badge"
-         alt="Python versions">
+    <img src="https://img.shields.io/badge/Python-3.8%2C%203.9%2C%203.10-blue?style=for-the-badge"
+         alt="Python version">
+    
+
   </a>
   <a href="https://github.com/wandabwa2004">
     <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge"
