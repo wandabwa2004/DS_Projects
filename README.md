@@ -1,6 +1,6 @@
 <!-- <p align="center"><img width=43.5% src="https://github.com/yashprakash13/data-another-day/blob/main/Data%20Another%20Day.png"></p> -->
 # Artificial Intelligence(AI),Generative AI  (Gen AI), Data Science, Engineering  and  Analytics Projects and Solutions 
-<h4 align="center">Senior Data Scientist with extensive experience in the financial sector, specializing in developing innovative AI and data-driven solutions. My portfolio showcases a range of self-driven projects that demonstrate my passion for pushing the boundaries of technology and solving complex problems.
+<p align="justify"> Senior Data Scientist with extensive experience in the financial sector, specializing in developing innovative AI and data-driven solutions. My portfolio showcases a range of self-driven projects that demonstrate my passion for pushing the boundaries of technology and solving complex problems.
 <br>
 My work spans multiple domains: <br>
   1. **Artificial Intelligence**: Custom AI solutions leveraging deep learning and machine learning algorithms to solve complex business challenges.<br>
@@ -11,7 +11,7 @@ My work spans multiple domains: <br>
 
 <br>
 Each project in this portfolio represents independent work completed alongside my professional role in financial services, reflecting my commitment to continuous learning and technical excellence. These solutions demonstrate my ability to translate complex technical concepts into practical, value-driving applications. 
-</h4>
+</p>
 
 <p align="center">
   <a href="https://www.python.org">
