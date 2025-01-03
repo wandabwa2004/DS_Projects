@@ -73,14 +73,110 @@ Each project in this portfolio represents independent work completed alongside m
 ### 8. [Publications](#publications) 
 
 # Projects
-## Large Language  Models (LLMs)  and  Generative AI (Gen AI) 
+## Large Language  Models (LLMs), Generative AI (Gen AI) and Agent 
+
+<h2>  <a id="maintenancellm" href="https://github.com/wandabwa2004/LLMs/tree/main/Agents/Maintenance_system_Agents"> Predictive Maintenance Optimization and Advisory Agentic System - LangChain and  GPT-4 </a> </h2>
+
+Predictive Maintenance Optimization and Advisory Agentic System - LangChain and  GPT-4
+
+[Link to the repo and code:](https://github.com/wandabwa2004/LLMs/tree/main/Agents/Maintenance_system_Agents) 
+
+This repository contains a predictive maintenance workflow of agents for an electricity utility company that:
+1. Ingests equipment data (e.g., transformers, poles, insulators, etc.)
+2. Analyzes it locally (summary statistics, risk measures).
+3. Runs an optimization step (Mixed-Integer Programming, MIP) to decide which equipment to maintain under a given budget.
+4. Summarizes the large maintenance schedule to avoid token-limit issues.
+5. Generates high-level financial and risk recommendations using LLM-based agents.
+6. Combines these advisors’ outputs into a coherent executive summary via a communicator agent.
+
+<h2>  <a id="researchagentopenai" href="https://github.com/wandabwa2004/LLMs/tree/main/Agents/research_agent_openAI"> Research Agent with with OpenAI </a> </h2>
+
+Research Agent with with OpenAI
+
+[Link to the repo and code:](https://github.com/wandabwa2004/LLMs/tree/main/Agents/research_agent_openAI) 
+
+This project implements a Research Agent that combines state-of-the-art GPT models, with search and summarization capabilities.
+
+<h2>  <a id="researchagentllama" href="https://github.com/wandabwa2004/LLMs/tree/main/Agents/research_agent_llama"> Research Agent with LLama </a> </h2>
+
+Research Agent with with Llama
+
+[Link to the repo and code:](https://github.com/wandabwa2004/LLMs/tree/main/Agents/research_agent_llama) 
+
+This project implements a Research Agent that combines state-of-the-art language models, like LLaMA and Falcon, with search and summarization capabilities. The agent can:
+
+- Perform web searches using DuckDuckGo.
+- Summarize long texts with advanced LLMs.
+- Automatically use GPU if available or fallback to CPU for processing.
+
+<h2>  <a id="jobcvmatcheropenai" href="https://github.com/wandabwa2004/LLMs/tree/main/job_cv_matcher"> Job and CV/Resume Matching System with Open AI </a> </h2>
+
+Job and CV/Resume Matching System with Open AI
+
+[Link to the repo and code:](https://github.com/wandabwa2004/LLMs/tree/main/job_cv_matcher) 
+
+A multi-step AI application that matches one or more CVs against a Job Description using an LLM-based approach. Users can copy-paste or upload a job description (PDF, DOCX, or TXT), then upload multiple CVs, and the system will rank them based on 0–10 match scores and provide explanations of the strengths and weaknesses for each CV.
+
+Features
+- Flexible Job Description Input Either copy-paste directly into a text area or upload a file in PDF, DOCX, or TXT.
+- Multiple CV Uploads Drag and drop (or browse) multiple CV files of various formats.
+- AI-Generated Matching & Explanation The system uses a multi-step logic:
+    - Summarize the job description.
+    - Summarize each CV.
+    - Compute an embedding-based similarity.
+    - Generate a final match score (0–10) and bullet-point explanation.
+    - Interactive Web Interface Built with Streamlit, ensuring a simple, browser-based UI.
+  
+
+<h2>  <a id="ragdocumentsopenai" href="https://github.com/wandabwa2004/LLMs/tree/main/RAG_chat_openAI"> RAG: An AI-Powered  Document-based Question-Answering (QA) System - GPT Driven </a> </h2>
+
+RAG: An AI-Powered  Document-based Question-Answering (QA) System - GPT Driven
+
+[Link to the repo and code:](https://github.com/wandabwa2004/LLMs/tree/main/RAG_chat_openAI) 
+
+A secure, privacy-focused Retrieval-Augmented Generation (RAG) system designed for local document-based Question-Answering (QA). This application enables users to upload documents, extract relevant text, and retrieve answers to queries using OpenAI's GPT models—all while keeping data local.
+
+Features:
+1. **Document Upload:** Upload and process documents in supported formats (PDFs, Word files, and plain text files).
+2. **Text Extraction:** Automatically extract and preprocess text from uploaded documents.
+3. **Vector Store for Retrieval:** Stores document content as embeddings and retrieves the most relevant sections for user queries.
+4. **Interactive Q&A:** Provides accurate answers to user queries based on document context.
+5. **Streamlit Interface:** A user-friendly interface for managing documents and querying.
+6. **Local Processing:** Ensures maximum privacy by processing data locally.
+
+<h2>  <a id="ragdocumentsllama" href="https://github.com/wandabwa2004/LLMs/tree/main/RAG_Chatbot"> RAG: An AI-Powered  Document-based Question-Answering (QA) System - GPT Driven </a> </h2>
+
+RAG: An AI-Powered  Document-based Question-Answering (QA) System - LLama]
+[Link to the repo and code:](https://github.com/wandabwa2004/LLMs/tree/main/RAG_Chatbot) 
+
+The Kenyan Constitution Chatbot is an AI-powered application that allows users to upload the [Constitution of Kenya 2010 PDF file](https://github.com/wandabwa2004/LLMs/blob/main/RAG_Chatbot/TheConstitutionOfKenya.pdf), parse it, and ask specific questions about its content. It leverages AI models and document embeddings to provide concise, accurate, and context-aware answers.
+
+Features
+🛠️ Document Parsing: Converts uploaded PDFs into machine-readable text.
+🔍 Intelligent Search: Uses vector search and document splitting to ensure efficient querying.
+📊 AI-Generated Answers: Provides precise, formatted answers to questions based on the document.
+🚀 Fast Processing: Optimized response time for queries.
+💬 Interactive Chat: Users can input queries and receive context-rich answers.
+
+**Technology Stack**
+- Frontend: Streamlit
+- Document Parsing: LlamaParse API
+- Vector Store: Qdrant
+- Embeddings Model: FastEmbed (BAAI/bge-base-en-v1.5)
+- Language Model: Groq API (llama3-70b-8192)
+- Document Loader: UnstructuredMarkdownLoader
+- Compression: Flashrank Rerank
+
 <h2>  <a id="llmsknowitall" href="https://github.com/wandabwa2004/llmchatbot"> KnowItAll: Your AI-Powered  Assistant </a> </h2>
 
 KnowItAll: Your AI-Powered  Assistant
 
-[Link to the repo and code:](https://github.com/wandabwa2004/LLMs/tree/dev/LLM_Chatbot_OpenAI) 
+[Link to the repo and code:](https://github.com/wandabwa2004/LLMs/tree/main/LLM_Chatbot_OpenAI) 
 
 I detail how I developed a multi-functional chatbot named KnowItAll, powered by OpenAI’s GPT-4 API, to handle diverse tasks such as answering questions, generating content, translating text, and writing code. While GPT-4 inherently possesses the ability to generate responses based on contextual understanding, this alone does not make it an intuitive assistant for specific use cases. To address this, KnowItAll leverages carefully crafted system and feature-specific prompts to align the AI's responses more closely with user expectations. By tailoring the input prompts to predefined user needs—such as content generation or code writing—the chatbot effectively serves as a highly capable and adaptive virtual assistant. This approach ensures that the chatbot not only understands explicit instructions but also delivers responses optimized for each feature, enhancing user interaction and satisfaction.
+
+
+
 
 ## Python
 <h2><a id="llama2finetuning" href="https://hermanwandabwa.medium.com/finetuning-llama-2-model-on-safaricoms-product-related-faqs-c9b226a43106"> Drive Customer Success: Supercharging Safaricom’s Product FAQs with Llama 2 Model </a> </h2>
@@ -130,7 +226,6 @@ The  analysis  follows the below : -
 [Link to Article](https://hermanwandabwa.medium.com/uncovering-patterns-and-trends-in-ausgrid-power-outage-data-ec538d4f70f9)
 
 Power outages are a prevalent challenge encountered by utility companies, highlighting the need for a thorough analysis of historical data to understand patterns and trends. I analysed the historical outage data for Ausgrid, Australia’s largest electricity distributor, which services 1.7 million customers across Sydney, the Hunter Valley, and the Central Coast.
-
 
 In summary:
 
