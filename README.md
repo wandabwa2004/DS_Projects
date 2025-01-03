@@ -17,8 +17,6 @@ Each project in this portfolio represents independent work completed alongside m
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3.8%2C%203.9%2C%203.10-blue?style=for-the-badge"
          alt="Python version">
-    
-
   </a>
   <a href="https://github.com/wandabwa2004">
     <img src="https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge"
@@ -33,8 +31,16 @@ Each project in this portfolio represents independent work completed alongside m
 
 
 # Table of Contents
-### 1. Large Language  Models (LLMs)  and  Generative AI (Gen AI) 
-* [KnowItAll: Your AI-Powered  Assistant](#llmsknowitall) 
+### 1. Large Language  Models (LLMs), Generative AI (Gen AI)  and  AI Agents 
+* [Predictive Maintenance Optimization and Advisory Agentic System - LangChain and  GPT-4](#maintenancellm)
+* [Research Agent with OpenAI ](#researchagentopenai)  
+* [Research Agent with LLama](#researchagentllama) 
+* [Job and CV/Resume Matching System with Open AI](#jobcvmatcheropenai)
+* [RAG: An AI-Powered  Document-based Question-Answering (QA) System - GPT Driven](#ragdocumentsopenai)
+* [RAG: An AI-Powered  Document-based Question-Answering (QA) System - LLama](#ragdocumentsllama)
+* [KnowItAll: An AI-Powered  Assistant](#llmsknowitall)
+
+   
 
 ### 2. Python 
   * [Drive Customer Success: Supercharging Safaricom’s Product FAQs with Llama 2 Model](#llama2finetuning)  
