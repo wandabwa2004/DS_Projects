@@ -1,14 +1,15 @@
 <!-- <p align="center"><img width=43.5% src="https://github.com/yashprakash13/data-another-day/blob/main/Data%20Another%20Day.png"></p> -->
 # Artificial Intelligence(AI),Generative AI  (Gen AI), Data Science, Engineering  and  Analytics Projects and Solutions 
 <h4 align="center">Senior Data Scientist with extensive experience in the financial sector, specializing in developing innovative AI and data-driven solutions. My portfolio showcases a range of self-driven projects that demonstrate my passion for pushing the boundaries of technology and solving complex problems.
+<br>
 My work spans multiple domains:
+  1. **Artificial Intelligence**: Custom AI solutions leveraging deep learning and machine learning algorithms to solve complex business challenges.
+  2. **Generative AI and LLMs**: Cutting-edge projects exploring the capabilities of large language models, text-to-image generation, and other generative technologies to create innovative applications.
+  3. **Data Science**: End-to-end data science solutions including predictive modeling, statistical analysis, and advanced feature engineering techniques.
+  4. **Engineering**: Robust data engineering pipelines and scalable architectures that support production-ready AI systems.
+  5. **Analytics**: In-depth analytical projects showcasing business intelligence, data visualization, and actionable insights extraction.
 
-Artificial Intelligence: Custom AI solutions leveraging deep learning and machine learning algorithms to solve complex business challenges.
-Generative AI: Cutting-edge projects exploring the capabilities of large language models, text-to-image generation, and other generative technologies to create innovative applications.
-Data Science: End-to-end data science solutions including predictive modeling, statistical analysis, and advanced feature engineering techniques.
-Engineering: Robust data engineering pipelines and scalable architectures that support production-ready AI systems.
-Analytics: In-depth analytical projects showcasing business intelligence, data visualization, and actionable insights extraction.
-
+<br>
 Each project in this portfolio represents independent work completed alongside my professional role in financial services, reflecting my commitment to continuous learning and technical excellence. These solutions demonstrate my ability to translate complex technical concepts into practical, value-driving applications. 
 </h4>
 
