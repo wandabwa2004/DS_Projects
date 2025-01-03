@@ -72,7 +72,7 @@ Each project in this portfolio represents independent work completed alongside m
 
 KnowItAll: Your AI-Powered  Assistant
 
-[Link to the repo and code:](https://github.com/wandabwa2004/llmchatbot) 
+[Link to the repo and code:](https://github.com/wandabwa2004/LLMs/tree/dev/LLM_Chatbot_OpenAI) 
 
 I detail how I developed a multi-functional chatbot named KnowItAll, powered by OpenAI’s GPT-4 API, to handle diverse tasks such as answering questions, generating content, translating text, and writing code. While GPT-4 inherently possesses the ability to generate responses based on contextual understanding, this alone does not make it an intuitive assistant for specific use cases. To address this, KnowItAll leverages carefully crafted system and feature-specific prompts to align the AI's responses more closely with user expectations. By tailoring the input prompts to predefined user needs—such as content generation or code writing—the chatbot effectively serves as a highly capable and adaptive virtual assistant. This approach ensures that the chatbot not only understands explicit instructions but also delivers responses optimized for each feature, enhancing user interaction and satisfaction.
 
